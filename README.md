@@ -40,12 +40,12 @@ See the `.env.sample` for the required information.
 ### Creating poster events  
 
 
-# Preparing additional data for import to Sparkle  
+# Adding events to OHBM  
 
 **Adding event/s:** To add events to sparkle, simply create a `.csv` file with one event per row that includes the following comma-delimited fields:  
 
 
-| Title, | Speaker, | Moderator, | Date Start, | Time Start, | Date End, | Time End, | Location, | TimeZoneBlock, | Categories |
+| Title | Speaker | Moderator | Date Start | Time Start | Date End | Time End | Location | TimeZoneBlock | Categories |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  "Example Title", | "Jane Doe", | , | 20210622, | 140000, | 20210622, | 150000, | mainauditorium | AmericasEurope | keynote | 
 
@@ -57,12 +57,32 @@ _If you prefer to make this file in excel, simply export the file as `.csv`_
 - `Moderator` can refer to a person that is moderating and/or an organization that is organizing. If some cases this can be used to describe content of the event. 
 - Dates are specified in UTC as `YYYYMMDD`
 - Times are specified in UTC as `HHMMSS`  
-- `Location` refers to the venue name in Sparkle. If you don't know at this stage, simply write `TBD` and we'll sort that out on our end
+- `Location` refers to the venue name in Sparkle. If you don't know at this stage, simply write `TBD` and we'll sort that out on our end. This is updated regularly, though current options include: ['mainauditorium', 'symposiumhall1', 'symposiumhall2','symposiumhall3' 'symposiumhall4', 'posterhall', 'lounge', 'opendiscussion', 'exhibithall']
 - `TimeZoneBlock` options are: `AmericasEurope`, `AmericasAsia`, `EuropeAsia`  
-- `Categories` refers to the program category, and currently includes the following options: 
+- `Categories` refers to the program category, and currently includes the following options: ['Talairach', 'Keynote', 'Symposium', 'Poster Highlights', 'Posters', 'Sponsored Symposia', 'Social', 'Announcements', 'Roundtables', 'Exhibitors Hour']
 
 _If you have any specific needs that aren't met by these fields, please get in touch to discussion options._ 
 
 **Modifying existing events:** 
 
 If you find any errors in the schedule, please let us know and we'll get them fixed as soon as possible.  
+
+# Adding rooms/venues to Sparkle  
+
+To add new rooms/venues, best to send along a `.csv` spreadsheet with the following information:
+
+- Template type
+- Name
+- Link 
+- 
+
+# Adding poster and video content to Sparkle  
+
+Same procedure as above, but the `.cvs` files should contain:
+
+- Title 
+- Author name
+- URL of poster
+- URL of thumbnail
+- List of categories
+- Poster ID number, if already assigned elsewhere
