@@ -72,10 +72,12 @@ If you find any errors in the schedule, please let us know and we'll get them fi
 To add new rooms/venues, best to send along a `.csv` spreadsheet with the following information:
 
 - Template type
-- Name
-- Link 
-- 
-
+- Room/Venue name
+- Link to space, if external to sparkle (e.g., Zoom link)
+- Link to embeddable content, if venue type allows iframe. This can also be a live-stream link
+- Brief description for landing page
+- Where should the venue be locationed within Sparkle? 
+- Who are the 'owners' of the venue?
 # Adding poster and video content to Sparkle  
 
 Same procedure as above, but the `.cvs` files should contain:
@@ -84,5 +86,6 @@ Same procedure as above, but the `.cvs` files should contain:
 - Author name
 - URL of poster
 - URL of thumbnail
+- URL of embedable video
 - List of categories
 - Poster ID number, if already assigned elsewhere
