@@ -1,0 +1,108 @@
+\documentclass[10pt,a4paper]{book}
+\usepackage{multicol}
+\usepackage{qrcode}
+\usepackage{float}
+\usepackage{pdfpages}
+
+\usepackage[hidelinks]{hyperref}
+\usepackage{color}
+\definecolor{blue}{rgb}{0.02,0.2,0.35}
+\definecolor{red}{rgb}{0.35,0.02,0.2}
+
+\usepackage[top=0.5in, bottom=0.5in, left=0.5in, right=0.5in]{geometry}
+\textheight=10.0in
+\setlength{\columnsep}{0.5in}
+\setlength{\parindent}{0pt}
+\setlength{\topsep}{0pt}
+\setlength{\partopsep}{0pt}
+\pagestyle{plain}
+\raggedbottom
+\raggedright
+
+\usepackage{fontspec}
+\setmainfont{MyriadPro}
+\setsansfont[BoldFont="Myriad Pro Semibold"]{Myriad Pro}
+
+\usepackage{datatool}
+\DTLsetseparator{€}
+\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl}]{abstracts}{2021_abstracts.csv} 
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{} % clear out default
+\fancyfoot[C]{\thepage} % page in center
+\renewcommand{\headrulewidth}{0pt} % remove top bar
+
+\usepackage{listofitems}
+
+% To do: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% include late-breaking abstract
+% include correct links to video and pdf
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{OHBM 2021 Abstracts}
+\begin{document}%
+  \includepdf[pages=-]{OHBM2021abstractbookcoverV1}  
+  \section*{OHBM 2021 Abstracts}
+  \begin{multicols}{2}    
+    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl}{
+      \begin{minipage}{\linewidth}
+        \begin{flushleft}
+          \label{\ID}
+          \noindent\hbox to -4pt{\hss \textcolor{red}{\small \textbf{\ID}}\hskip2pt}
+          \hskip1pt\textcolor{blue}{\small \href{\URL}{\textbf{\title}}}\\
+          {\footnotesize \Authors}\\
+          \textit{\footnotesize \Institution}\\
+        \end{flushleft}
+        \vspace{10pt}
+      \end{minipage}                                                                                                                      
+    }
+  \end{multicols}
+  \pagebreak
+  \section*{Authors Index}
+  \begin{multicols}{3}
+    \interlinepenalty=10000
+    \noindent
+    \begin{flushleft}
+      \setsepchar{,}
+      \DTLloaddb[noheader,keys={last,first,submissionNumbers}]{index}{2021_authors_index.csv}
+      \DTLforeach*{index}{\Last=last,\First=first,\submissionNumbers=submissionNumbers}{
+        {\footnotesize \Last}, {\footnotesize \First} \readlist*\abstractlist{\submissionNumbers}
+        \foreachitem\ID\in\abstractlist[]{\ifnum\IDcnt=1\else, \fi\textcolor{red}{\footnotesize \hyperref[\ID]{\ID}}}\\
+      }       
+    \end{flushleft}
+  \end{multicols}
+  \pagebreak
+  \section*{Categories Index}  
+  \begin{multicols}{3}
+    \interlinepenalty=10000
+    \noindent
+    \begin{flushleft}
+      \setsepchar{,}
+      \DTLloaddb[noheader,keys={category,submissionNumbersC}]{indexC}{2021_categories_index.csv}
+      \DTLforeach*{indexC}{\Category=category,\submissionNumbersC=submissionNumbersC}{
+        \readlist*\abstractlistC{\submissionNumbersC}{
+          \ifnum\abstractlistC[]\cnt=0\vspace{10pt}{\large {\textbf\Category}}\\*
+          \else        
+            {\footnotesize \textbf{\Category}}
+            \foreachitem\ID\in\abstractlistC[]{\ifnum\IDcnt=1\else, \fi\textcolor{red}{\footnotesize \hyperref[\ID]{\ID}}}\\
+          \fi
+        }      
+      }
+    \end{flushleft}
+  \end{multicols}
+  \pagebreak
+  \section*{Poster Highlights}
+  \begin{multicols}{3}
+    \interlinepenalty=10000
+    \noindent
+    \begin{flushleft}
+      \setsepchar{,}
+      \DTLloaddb[noheader,keys={highlights,submissionNumbersH}]{indexH}{2021_abstract_highlights.csv}
+      \DTLforeach*{indexH}{\Highlights=highlights,\submissionNumbersH=submissionNumbersH}{
+        \readlist*\abstractlistH{\submissionNumbersH}
+        \vspace{10pt}{\normalsize \textbf{\Highlights}}\\*
+        \foreachitem\ID\in\abstractlistH[]{\ifnum\IDcnt=1\else, \fi\textcolor{red}{\footnotesize \hyperref[\ID]{\ID}}}\\        
+      }      
+    \end{flushleft}
+  \end{multicols}
+\end{document}

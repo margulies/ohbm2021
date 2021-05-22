@@ -14,7 +14,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -127,3 +126,46 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.code-workspace
+
+# directories:
+figures
+posters_csv
+posters_ics
+userAccts
+old
+calendars
+abstracts
+schedule
+ohbm2021_abstract_book/listofitems
+ohbmcal
+sparkle_upload/node_modules
+sparkle_upload/ohbm2021
+
+# files:
+create_ical_event.py
+
+# types:
+*.zip
+*.DS_Store
+*pkl
+*pdf
+*csv
+*xlsx
+*xls
+*out
+*log
+*aux
+*fls
+*fdb_latexmk
+*ipynb_checkpoints
+*json
+*png
+*jpg
+
+# file names:
+*test*
+*scores_PC*
+Untitled*ipynb 
+ohbm2021_abstract_book/ohbm2021_abstract_book_full.tex

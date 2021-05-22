@@ -1,0 +1,8 @@
+beautifulsoup4
+jupyter
+pandas
+requests
+xmltodict
+python-decouple
+lxml
+numpy

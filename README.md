@@ -7,16 +7,30 @@ _If you would like to **add or modify events** for OHBM 2021, instructions for p
   2. api information for Attendee Interactive  
   3. location of the Sparkle `scripts` directory  
 
-See the `.env.sample` for the required information.
+See the `.env.sample` for the required information.  
 
+# Compiling the abstract book  
 
-# Generating abstract book  
+_Special thanks to @htwangtw for many contributions._  
+
+_All files used to generate the OHBM Abstract Book are located in the [`ohbm2021_abstract_book`](./ohbm2021_abstract_book) directory._  
+
+The `ipython` notebook [`ohbm_abstract.ipynb`](./ohbm2021_abstract_book/ohbm_abstract.ipynb) contains all the commands used to generate the `.csv` files required for compiling the [`ohbm2021_abstract_book.tex`](./ohbm2021_abstract_book/ohbm_abstract.ipynb) file. A note that the `.csv` files are delimited using `€` to avoid potential conflicts with the variety of characters used in the abstract content.  
+
+To compile the `.tex` file, run the following command **twice** from within the [`ohbm2021_abstract_book`](./ohbm2021_abstract_book) directory:  
+    
+    lualatex -interaction=nonstopmode ohbm2021_abstract_book.tex  
+
+_Note: Compiling the full abstract book currently takes approximately an hour, but it'll get there..._  
 
 
 # Schedule
 
+_Details will be provided shortly._  
 
-### Optimizing scheduling  
+<hr>
+
+<!-- ### Optimizing scheduling  
 
 ### Generating schedule files  
 
@@ -37,10 +51,10 @@ See the `.env.sample` for the required information.
 ### Creating poster pages  
 
 
-### Creating poster events  
+### Creating poster events   -->
 
 
-# Adding events to OHBM  
+# Adding content to Sparkle
 
 **Adding event/s:** To add events to sparkle, simply create a `.csv` file with one event per row that includes the following comma-delimited fields:  
 
@@ -67,7 +81,7 @@ _If you have any specific needs that aren't met by these fields, please get in t
 
 If you find any errors in the schedule, please let us know and we'll get them fixed as soon as possible.  
 
-# Adding rooms/venues to Sparkle  
+## Adding rooms/venues to Sparkle  
 
 To add new rooms/venues, best to send along a `.csv` spreadsheet with the following information:
 
@@ -78,7 +92,7 @@ To add new rooms/venues, best to send along a `.csv` spreadsheet with the follow
 - Brief description for landing page
 - Where should the venue be locationed within Sparkle? 
 - Who are the 'owners' of the venue?
-# Adding poster and video content to Sparkle  
+## Adding posters to Sparkle   
 
 Same procedure as above, but the `.cvs` files should contain:
 
@@ -89,3 +103,14 @@ Same procedure as above, but the `.cvs` files should contain:
 - URL of embedable video
 - List of categories
 - Poster ID number, if already assigned elsewhere
+
+## Adding video content to Sparkle `screeningroom` venues 
+
+`.cvs` files should contain:
+- **Title** (if part of video subcategory, such as a symposium, begin `title` with `number`, such as `1.  [title]` or `Lecture 1. [title]`. This will be used for automatically sorting videos within a subcategory)
+- **Author name** (if multiple authors, separate names with commas)
+- **URL of thumbnail**
+- **URL of embedable video**
+- **Name of video category** (eg, Keynote, Symposium, etc...)
+- **Name of video subcategory** (_optional_), (eg Title of symposium)
+- **Video ID** (_optional_) , if already assigned elsewhere
