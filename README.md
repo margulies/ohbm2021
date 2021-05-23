@@ -49,6 +49,9 @@ For uploading the output `.csv` file into Sparkle, see the section below.
 # Adding content to Sparkle
 
 All scripts necessary for uploading content are available in the [sparkle_upload/scripts](sparkle_upload/scripts) directory. Please note for some of the scripts to work, it may be necessary to have a local copy of the [Sparkle repository](https://github.com/sparkletown/sparkle) as well.
+
+To use scripts for batch uploading and modifying of events/venues, first run `npm install` from inside the [sparkle_upload](./sparkle_upload) directory. Further information about sparkle can be found at [here](https://github.com/sparkletown/sparkle).     
+
 ### Setting up the events file for uploading:
 To add events to sparkle, simply create a `.csv` file with one event per row that includes the following comma-delimited fields:  
 
