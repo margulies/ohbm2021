@@ -34,9 +34,7 @@ Posters (Abstracts) are assigned to standby times based on the combination of th
 
 ### Converting the schedule file to calendar (`.ics`) and sparkle-readable files   
 
-The code for converting the [schedule file](./schedule/OHBM2021_schedule.csv) to calendars is available in [OHBM_schedule_to_calendars.ipynb](./schedule/OHBM_schedule_to_calendars.ipynb).  
-
-Two 
+The code for converting the [schedule file](./schedule/OHBM2021_schedule.csv) to calendars is available in [OHBM_schedule_to_calendars.ipynb](./schedule/OHBM_schedule_to_calendars.ipynb).   
 
 For uploading the output `.csv` file into Sparkle, see the section below.
 
@@ -105,7 +103,7 @@ Then edit the `events.csv` file to only contain events you would like to delete.
 
 Then run the following to delete events listed in `./events_to_delete.csv`:  
 
-    ./delete-event.ts sparkle-ohbm ./prodAccountKey.json ./events_to_delete.csv  
+    ./delete-events.ts sparkle-ohbm ./prodAccountKey.json ./events_to_delete.csv  
 
 
 ## Adding rooms/venues to Sparkle  
