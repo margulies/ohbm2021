@@ -1,5 +1,9 @@
 #!/usr/bin/env node -r esm -r ts-node/register
 
+var firebase = require("firebase/app");
+require("firebase/auth");
+require("firebase/firestore");
+
 import admin from "firebase-admin";
 import { initFirebaseAdminApp, makeScriptUsage } from "./lib/helpers";
 import { resolve } from "path";
@@ -8,7 +12,7 @@ const csv = require("csv-parser");
 
 const usage = makeScriptUsage({
   description:
-    "Bulk upload events. Based on csv file with event details",
+    "Bulk delete events. Based on csv file with event details",
   usageParams: "PROJECT_ID [CREDENTIAL_PATH] [EVENTS_TO_DELETE_CSV_FILE]",
   exampleParams: "co-reality-map [theMatchingAccountServiceKey.json] [events_to_delete.csv]",
 });
@@ -26,8 +30,8 @@ initFirebaseAdminApp(projectId, {
 });
 
 interface events {
-  eventId: string;
-  venueId: string;  
+  EventID: string;
+  VenueID: string;
 }
 
 fs.createReadStream(filePath)
@@ -36,9 +40,9 @@ fs.createReadStream(filePath)
     await admin
       .firestore()
       .collection("venues")
-      .doc(event.venueId)
+      .doc(event.VenueID)
       .collection("events")
-      .doc(event.eventId)
+      .doc(event.EventID)
       .delete()
       .then()
       .catch(function (err: string) {
@@ -48,4 +52,3 @@ fs.createReadStream(filePath)
   .on("end", () => {
     console.log("Event deletion successfully processed");
   });
-    

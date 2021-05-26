@@ -32,6 +32,7 @@ initFirebaseAdminApp(projectId, {
 interface events {
   location: string;
   name: string;
+  host: string;
   description: string;
   start: number;
   duration: number;
@@ -50,6 +51,7 @@ fs.createReadStream(filePath)
         .doc(event.eventId)
         .update({
           name: event.name,
+          host: event.host,
           description: event.description,
           start_utc_seconds: Number(event.start),
           duration_minutes: Number(event.duration),
@@ -68,6 +70,7 @@ fs.createReadStream(filePath)
         .collection("events")
         .add({
           name: event.name,
+          host: event.host,
           description: event.description,
           start_utc_seconds: Number(event.start),
           duration_minutes: Number(event.duration),
