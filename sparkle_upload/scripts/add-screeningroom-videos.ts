@@ -33,7 +33,7 @@ interface videos {
   location: string;
   title: string;
   authorName: string;
-  thumbnailSrc?: string;
+  thumbnailSrc: string;
   videoSrc: string;
   category: string;
   subCategory?: string;
@@ -54,7 +54,7 @@ fs.createReadStream(filePath)
         thumbnailSrc: video.thumbnailSrc,
         videoSrc: video.videoSrc,
         category: video.category,
-        subCategory: video.subCategory,
+        subCategory: video.subCategory || "",
       })
       .then()
       .catch(function (err: string) {
