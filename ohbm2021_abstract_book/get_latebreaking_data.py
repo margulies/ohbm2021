@@ -25,7 +25,7 @@ def main():
     # get all the posters
     df_accepted = parser(late_break=False)
 
-    poster_categories = category_to_df(df_accepted, latebreaking_only=True)
+    poster_categories = category_to_df(df_accepted, latebreaking_only=False)
     poster_categories.to_csv("2021_categories_index.csv", index=False, sep="€")
 
     # df_authors = compile_authros_index(df_all_abstracts)

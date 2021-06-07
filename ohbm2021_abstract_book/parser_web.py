@@ -70,7 +70,7 @@ def read_poster_list(poster_id_file):
 
 def main(late_break=False):
     late_abstract_list = read_poster_list("latebreaking_abstracts_list.csv")
-    first_abstract_list = read_poster_list("firstsubmission_abstract_list.csv")
+    first_abstract_list = read_poster_list("firstsubmission_abstracts_list.csv")
     print(f"number of late breaking: {len(late_abstract_list)}")
     print(f"number of first batch: {len(first_abstract_list)}")
     if late_break and os.path.isfile("abstracts_content.pkl"):

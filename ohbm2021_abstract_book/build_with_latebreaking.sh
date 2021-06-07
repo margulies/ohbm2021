@@ -17,5 +17,5 @@ for FILE in 2021_authors_index.csv 2021_categories_index.csv ; do
 tail -n +2 "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"
 done
 
-lualatex -interaction=nonstopmode ohbm2021_abstract_book.tex
-lualatex -interaction=nonstopmode ohbm2021_abstract_book.tex
+# lualatex -interaction=nonstopmode ohbm2021_abstract_book.tex
+# lualatex -interaction=nonstopmode ohbm2021_abstract_book.tex
