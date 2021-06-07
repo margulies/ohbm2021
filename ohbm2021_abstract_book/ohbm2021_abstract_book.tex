@@ -25,7 +25,7 @@
 
 \usepackage{datatool}
 \DTLsetseparator{€}
-\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl,ics,venu,pdf,video}]{abstracts}{2021_abstracts.csv}
+\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl}]{abstracts}{2021_abstracts.csv}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -44,8 +44,7 @@
   \includepdf[pages=-]{OHBM2021abstractbookcoverV1}
   \section*{OHBM 2021 Abstracts}
   \begin{multicols}{2}
-    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl,
-                            \ics=ics,\venu=venu}{
+    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl}{
       \begin{minipage}{\linewidth}
         \begin{flushleft}
           \label{\ID}
@@ -53,7 +52,12 @@
           \hskip1pt\textcolor{blue}{\small \href{\URL}{\textbf{\title}}}\\
           {\footnotesize \Authors}\\
           \textit{\footnotesize \Institution}\\
-          {\footnotesize \href{\pdf}{\textbf{PDF}} | \href{\video}{\textbf{Video}} | \footnotesize \href{\venu}{\textbf{See on sparkle}} | \href{\ics}{\textbf{Download schedule to your calendar}}}\\
+          {\footnotesize
+            \href{\pdf}{\textbf{PDF}} |
+            \href{\video}{\textbf{Video}} |
+            \footnotesize \href{https://ohbm.sparkle.space/in/poster\ID}{\textbf{See on sparkle}} |
+            \href{https://firebasestorage.googleapis.com/v0/b/sparkle-ohbm.appspot.com/o/assets\%2Fcalendars\%2Fposters\%2Fposter\ID.ics?alt=media}{\textbf{Download schedule to your calendar}}
+          }\\
         \end{flushleft}
         \vspace{10pt}
       \end{minipage}
