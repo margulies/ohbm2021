@@ -30,14 +30,18 @@ def compile_authros_index(df_accepted):
     return df_authors
 
 
-def category_to_df(df_accepted):
+def category_to_df(df_accepted, latebreaking_only=True):
     categories_finder, first_batch = _load_categories()
     categories_finder['Polarized light imaging (PLI)'] = 'Novel Imaging Acquisition Methods'
     categories_finder['Optical coherence tomography (OCT)'] = 'Novel Imaging Acquisition Methods'
-
-    poster_categories = _update_categores(df_accepted,
-                                          categories_finder,
-                                          first_batch)
+    if latebreaking_only:
+        poster_categories = _update_categores(df_accepted,
+                                    categories_finder,
+                                    {})
+    else:
+        poster_categories = _update_categores(df_accepted,
+                                            categories_finder,
+                                            first_batch)
     df_cat = pd.DataFrame()
     for key in poster_categories:
         sub_cats = {key: None}
@@ -145,9 +149,9 @@ def _update_categores(df_accepted, categories_finder, poster_categories):
                 child_cat = "Other"
 
             if isinstance(parent_cat, str):
-                if parent_cat not in poster_categories:
-                    update[parent_cat] = {}
-                if child_cat not in poster_categories[parent_cat]:
+                if parent_cat not in update:
+                    update[parent_cat] = {child_cat: set()}
+                if child_cat not in update[parent_cat]:
                     update[parent_cat][child_cat] = set()
                 update[parent_cat][child_cat].add(row["submissionNumber"])
             else:
