@@ -143,12 +143,17 @@ if __name__ == "__main__":
     # create all files separately first
     df_accepted = load_latebreaking()
     df_accepted_late = df_accepted.loc[:, cols]
-    df_accepted_late.to_csv("latebreaking_abstract.csv", index=False,sep="€")
-    poster_categories = category_to_df(df_accepted, test=True)
-    poster_categories.to_csv("latebreaking_categories_index.csv", index=False, sep="€")
+    df_accepted_late.to_csv("latebreaking_abstracts.csv", index=False,sep="€")
+    df_abstract = pd.read_csv("firstsubmission_abstracts.csv", sep="€", header=None)
+    df_abstract = pd.concat([df_abstract, df_accepted_late], axis=0)
+    df_abstract.to_csv("2021_abstracts.csv", index=False,sep="€")
 
-    authors = authro_index_ref(df_accepted)
-    with open("latebreaking_authors_index.csv","w", encoding='utf8') as f:
+    poster_categories = category_to_df(df_accepted, test=False)
+    poster_categories.to_csv("2021_categories_index.csv", index=False, sep="€")
+
+    full_accepted = parser(late_break=False)
+    authors = authro_index_ref(full_accepted)
+    with open("2021_authors_index.csv","w", encoding='utf8') as f:
         for author in authors.values():
             if author['middlename'] is None:  # no mi
                 f.write("%s€%s€%s\n" % (capitalise_name(author['lastname']),

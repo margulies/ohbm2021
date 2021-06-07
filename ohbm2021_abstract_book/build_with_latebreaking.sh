@@ -10,4 +10,7 @@ sed -i -e 's/A\&/A\\\&/g' latebreaking_abstract.csv
 sed -i -e 's/\_/\\\_/g' latebreaking_abstract.csv
 sed -i -e 's/\\n\\n/\\linebreak/g' latebreaking_abstract.csv
 
-# python concat_v1_latebreaking.py
+# remove first lene
+for FILE in latebreaking_authors_index.csv latebreaking_categories_index.csv; do
+tail -n +2 "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"
+done
