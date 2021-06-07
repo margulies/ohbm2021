@@ -61,7 +61,7 @@ def web2list():
     return o["rst"]["abstracts"]["abstract"]
 
 
-def read_latebreaking(poster_id_file="latebreaking_abstracts_list.csv"):
+def read_poster_list(poster_id_file):
     with open(poster_id_file, "r") as f:
         abstract_id = [item.split()[0]
                        for item in f.readlines()]
@@ -69,15 +69,23 @@ def read_latebreaking(poster_id_file="latebreaking_abstracts_list.csv"):
 
 
 def main(late_break=False):
+    late_abstract_list = read_poster_list("latebreaking_abstracts_list.csv")
+    first_abstract_list = read_poster_list("firstsubmission_abstract_list.csv")
+    print(f"number of late breaking: {len(late_abstract_list)}")
+    print(f"number of first batch: {len(first_abstract_list)}")
     if late_break and os.path.isfile("abstracts_content.pkl"):
         df = pd.read_pickle("abstracts_content.pkl")
-        late_abstract_list = read_latebreaking()
-        print(len(late_abstract_list))
         bool_late = df['abstractNumber'].isin(late_abstract_list)
         print(sum(bool_late))
         df_late = df[bool_late]
         df_late.to_pickle("latebreak_abstracts_content.pkl")
         return df_late
+    elif late_break==False and os.path.isfile("abstracts_content.pkl"):
+        df = pd.read_pickle("abstracts_content.pkl")
+        bool_first = df['abstractNumber'].isin(first_abstract_list + late_abstract_list)
+        df_accepted = df[bool_first]
+        print(f"After filtering: {df_accepted.shape[0]}")
+        return df_accepted
     else:
         abstract_list = web2list()
         consolidated_dict = {}
@@ -89,9 +97,11 @@ def main(late_break=False):
                 consolidated_dict.update({original.get("@id"): instance_dict.copy()})
             else:
                 print("ID exist...")
-        print(len(consolidated_dict))
         df = pd.DataFrame(consolidated_dict).T
         df = df[df_cols]
+        accepted = df['abstractNumber'].isin(first_abstract_list + late_abstract_list)
+        df = df[accepted]
+        print(df.shape)
         df.to_pickle("abstracts_content.pkl")
         return df
 
