@@ -6,9 +6,39 @@ exeption_cat = {
     'Informatics Other': 'Neuroinformatics and Data Sharing Other',
     'Emotion and Motivation Other': 'Emotion, Motivation and Social Neuroscience Other',
     'Non-Invasive Stimulation Methods Other':'Non-Invasive Methods Other',
+    'Invasive Stimulation Methods Other': 'Invasive Methods Other',
     'Perception and Attention Other':'Perception, Attention and Motor Behavior Other',
     'Other Methods':'Modeling and Analysis Methods Other',
+    'Social Neuroscience Other': 'Emotion, Motivation and Social Neuroscience Other'
 }
+
+
+def add_urls(df_abstract, df_raw):
+    """Add associated pdf and video link to abstract"""
+    df_abstract["pdf"] = None
+    df_abstract["video"] = None
+    df_abstract = df_abstract.set_index('submissionNumber')
+    df_raw = df_raw.set_index('submissionNumber')
+    media_links = pd.read_csv("ohbm-ALL-poster-links.csv")
+    media_links['Title'] = media_links['Title'].apply(str.lower)
+
+    for idx, row in df_abstract.iterrows():
+        if str(idx) in df_raw.index:
+            speakers = df_raw.loc[str(idx), 'speakers']['speaker']
+            email = speakers[0]['email']
+            # if isinstance(speakers, list):
+            #     email = speakers[0]['email']
+            # else:
+            #     email = speakers['email']
+            title = str.lower(row['title'])
+            # filter out people with more than one first author paper
+            mask = media_links['Email'].isin([email]) & media_links['Title'].isin([title])
+            # this is not entirely reliable
+            if sum(mask) == 1:
+                pdf, video = media_links.loc[mask, ['PDF Link', 'Thumbnail Link']].values.tolist()[0]
+                df_abstract.loc[idx, "pdf"] = pdf
+                df_abstract.loc[idx, "video"] = video
+    return df_abstract.reset_index()
 
 
 def compile_authros_index(df_accepted):

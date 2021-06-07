@@ -25,7 +25,7 @@
 
 \usepackage{datatool}
 \DTLsetseparator{€}
-\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl}]{abstracts}{2021_abstracts.csv}
+\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl,pdf,video}]{abstracts}{2021_abstracts.csv}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -44,7 +44,7 @@
   \includepdf[pages=-]{OHBM2021abstractbookcoverV1}
   \section*{OHBM 2021 Abstracts}
   \begin{multicols}{2}
-    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl}{
+    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl,\pdf=pdf,\video=video}{
       \begin{minipage}{\linewidth}
         \begin{flushleft}
           \label{\ID}

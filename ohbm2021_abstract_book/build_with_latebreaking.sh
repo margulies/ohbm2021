@@ -10,8 +10,6 @@ sed -i -e 's/A\&/A\\\&/g' 2021_abstracts.csv
 sed -i -e 's/\_/\\\_/g' 2021_abstracts.csv
 sed -i -e 's/\\n\\n/\\linebreak/g' 2021_abstracts.csv
 
-# python add_links.py
-
 # remove first line
 for FILE in 2021_authors_index.csv 2021_categories_index.csv ; do
 tail -n +2 "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"

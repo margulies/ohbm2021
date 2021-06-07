@@ -73,19 +73,9 @@ def main(late_break=False):
     first_abstract_list = read_poster_list("firstsubmission_abstracts_list.csv")
     print(f"number of late breaking: {len(late_abstract_list)}")
     print(f"number of first batch: {len(first_abstract_list)}")
-    if late_break and os.path.isfile("abstracts_content.pkl"):
+
+    if os.path.isfile("abstracts_content.pkl"):
         df = pd.read_pickle("abstracts_content.pkl")
-        bool_late = df['abstractNumber'].isin(late_abstract_list)
-        print(sum(bool_late))
-        df_late = df[bool_late]
-        df_late.to_pickle("latebreak_abstracts_content.pkl")
-        return df_late
-    elif late_break==False and os.path.isfile("abstracts_content.pkl"):
-        df = pd.read_pickle("abstracts_content.pkl")
-        bool_first = df['abstractNumber'].isin(first_abstract_list + late_abstract_list)
-        df_accepted = df[bool_first]
-        print(f"After filtering: {df_accepted.shape[0]}")
-        return df_accepted
     else:
         abstract_list = web2list()
         consolidated_dict = {}
@@ -99,11 +89,22 @@ def main(late_break=False):
                 print("ID exist...")
         df = pd.DataFrame(consolidated_dict).T
         df = df[df_cols]
-        accepted = df['abstractNumber'].isin(first_abstract_list + late_abstract_list)
-        df = df[accepted]
-        print(df.shape)
         df.to_pickle("abstracts_content.pkl")
-        return df
+
+    bool_late = df['abstractNumber'].isin(late_abstract_list)
+    bool_first = df['abstractNumber'].isin(first_abstract_list)
+    missing = set(first_abstract_list) - set(df['abstractNumber'][bool_first].tolist())
+    if late_break:
+        df_late = df[bool_late]
+        df_late.to_pickle("latebreak_abstracts_content.pkl")
+        return df_late
+    else:
+        df_accepted = pd.concat([df[bool_first], df[bool_late]], axis=0)
+
+        print(f"After filtering: {df_accepted.shape[0]}")
+        print("Missing from database:")
+        print(missing)
+        return df_accepted
 
 if __name__ == "__main__":
     main()
