@@ -22,7 +22,6 @@ def main():
     if not late_break_only:
         # concatnate late breaking poster and first batch of submission
         df_first= pd.read_csv("firstsubmission_abstracts.csv", sep="€")
-        df_first= pd.read_csv("latebreaking_abstracts.csv", sep="€")
         df_abstract = pd.concat([df_first, df_abstract], axis=0)
 
     # get all the posters
