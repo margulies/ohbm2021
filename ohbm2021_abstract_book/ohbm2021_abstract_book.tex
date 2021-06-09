@@ -25,7 +25,7 @@
 
 \usepackage{datatool}
 \DTLsetseparator{€}
-\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl}]{abstracts}{2021_abstracts.csv} 
+\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl,pdf}]{abstracts}{2021_abstracts.csv}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -41,10 +41,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \title{OHBM 2021 Abstracts}
 \begin{document}%
-  \includepdf[pages=-]{OHBM2021abstractbookcoverV1}  
+  \includepdf[pages=-]{OHBM2021abstractbookcover}
   \section*{OHBM 2021 Abstracts}
-  \begin{multicols}{2}    
-    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl}{
+  \begin{multicols}{2}
+    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl,\pdf=pdf}{
       \begin{minipage}{\linewidth}
         \begin{flushleft}
           \label{\ID}
@@ -52,9 +52,15 @@
           \hskip1pt\textcolor{blue}{\small \href{\URL}{\textbf{\title}}}\\
           {\footnotesize \Authors}\\
           \textit{\footnotesize \Institution}\\
+          {\footnotesize
+            \href{\pdf}{\textbf{PDF}} |
+            % \href{\video}{\textbf{Video}} |
+            \footnotesize \href{https://ohbm.sparkle.space/in/poster\ID}{\textbf{See on sparkle}} |
+            \href{https://firebasestorage.googleapis.com/v0/b/sparkle-ohbm.appspot.com/o/assets\%2Fcalendars\%2Fposters\%2Fposter\ID.ics?alt=media}{\textbf{Download schedule to your calendar}}
+          }\\
         \end{flushleft}
         \vspace{10pt}
-      \end{minipage}                                                                                                                      
+      \end{minipage}
     }
   \end{multicols}
   \pagebreak
@@ -68,11 +74,11 @@
       \DTLforeach*{index}{\Last=last,\First=first,\submissionNumbers=submissionNumbers}{
         {\footnotesize \Last}, {\footnotesize \First} \readlist*\abstractlist{\submissionNumbers}
         \foreachitem\ID\in\abstractlist[]{\ifnum\IDcnt=1\else, \fi\textcolor{red}{\footnotesize \hyperref[\ID]{\ID}}}\\
-      }       
+      }
     \end{flushleft}
   \end{multicols}
   \pagebreak
-  \section*{Categories Index}  
+  \section*{Categories Index}
   \begin{multicols}{3}
     \interlinepenalty=10000
     \noindent
@@ -82,11 +88,11 @@
       \DTLforeach*{indexC}{\Category=category,\submissionNumbersC=submissionNumbersC}{
         \readlist*\abstractlistC{\submissionNumbersC}{
           \ifnum\abstractlistC[]\cnt=0\vspace{10pt}{\large {\textbf\Category}}\\*
-          \else        
+          \else
             {\footnotesize \textbf{\Category}}
             \foreachitem\ID\in\abstractlistC[]{\ifnum\IDcnt=1\else, \fi\textcolor{red}{\footnotesize \hyperref[\ID]{\ID}}}\\
           \fi
-        }      
+        }
       }
     \end{flushleft}
   \end{multicols}
@@ -101,8 +107,8 @@
       \DTLforeach*{indexH}{\Highlights=highlights,\submissionNumbersH=submissionNumbersH}{
         \readlist*\abstractlistH{\submissionNumbersH}
         \vspace{10pt}{\normalsize \textbf{\Highlights}}\\*
-        \foreachitem\ID\in\abstractlistH[]{\ifnum\IDcnt=1\else, \fi\textcolor{red}{\footnotesize \hyperref[\ID]{\ID}}}\\        
-      }      
+        \foreachitem\ID\in\abstractlistH[]{\ifnum\IDcnt=1\else, \fi\textcolor{red}{\footnotesize \hyperref[\ID]{\ID}}}\\
+      }
     \end{flushleft}
   \end{multicols}
 \end{document}
