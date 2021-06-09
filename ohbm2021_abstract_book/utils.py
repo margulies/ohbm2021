@@ -19,7 +19,7 @@ def add_urls(df_abstract, df_raw):
     # df_abstract["video"] = None
     df_abstract = df_abstract.set_index("submissionNumber")
     df_raw = df_raw.set_index("submissionNumber")
-    media_links = pd.read_csv("ohbm-ALL-poster-links.csv")
+    media_links = pd.read_csv("data/ohbm-ALL-poster-links.csv")
     media_links["Title"] = media_links["Title"].apply(str.lower)
 
     for idx, row in df_abstract.iterrows():
@@ -173,7 +173,7 @@ def _parse_category_name(name):
 def _load_categories():
     """Load the existing categories"""
     df_cat_exist = pd.read_csv(
-        "firstsubmission_categories_index.csv", sep="€", header=None
+        "data/firstsubmission_categories_index.csv", sep="€", header=None
     )
     df_cat_exist.columns = ["category", "poster_no"]
     poster_categories = {}

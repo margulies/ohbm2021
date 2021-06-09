@@ -22,10 +22,10 @@ def main():
     df_abstract["submissionNumber"] = df_abstract["submissionNumber"].apply(
         int
     )
-    df_abstract.to_csv("latebreaking_abstracts.csv", index=False, sep="€")
+    df_abstract.to_csv("data/latebreaking_abstracts.csv", index=False, sep="€")
     if not late_break_only:
         # concatnate late breaking poster and first batch of submission
-        df_first = pd.read_csv("firstsubmission_abstracts.csv", sep="€")
+        df_first = pd.read_csv("data/firstsubmission_abstracts.csv", sep="€")
         df_abstract = pd.concat([df_first, df_abstract], axis=0)
 
     # get all the posters
