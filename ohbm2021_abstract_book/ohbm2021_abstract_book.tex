@@ -25,7 +25,7 @@
 
 \usepackage{datatool}
 \DTLsetseparator{€}
-\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl,pdf,video}]{abstracts}{2021_abstracts.csv}
+\DTLloaddb[keys={submissionNumber,title,authors,institution,previewurl,pdf}]{abstracts}{2021_abstracts.csv}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -44,7 +44,7 @@
   \includepdf[pages=-]{OHBM2021abstractbookcoverV2}
   \section*{OHBM 2021 Abstracts}
   \begin{multicols}{2}
-    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl,\pdf=pdf,\video=video}{
+    \DTLforeach*{abstracts}{\ID=submissionNumber,\title=title,\Authors=authors,\Institution=institution,\URL=previewurl,\pdf=pdf}{
       \begin{minipage}{\linewidth}
         \begin{flushleft}
           \label{\ID}
@@ -54,7 +54,7 @@
           \textit{\footnotesize \Institution}\\
           {\footnotesize
             \href{\pdf}{\textbf{PDF}} |
-            \href{\video}{\textbf{Video}} |
+            % \href{\video}{\textbf{Video}} |
             \footnotesize \href{https://ohbm.sparkle.space/in/poster\ID}{\textbf{See on sparkle}} |
             \href{https://firebasestorage.googleapis.com/v0/b/sparkle-ohbm.appspot.com/o/assets\%2Fcalendars\%2Fposters\%2Fposter\ID.ics?alt=media}{\textbf{Download schedule to your calendar}}
           }\\
