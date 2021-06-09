@@ -16,7 +16,7 @@ exeption_cat = {
 def add_urls(df_abstract, df_raw):
     """Add associated pdf and video link to abstract"""
     df_abstract["pdf"] = None
-    df_abstract["video"] = None
+    # df_abstract["video"] = None
     df_abstract = df_abstract.set_index('submissionNumber')
     df_raw = df_raw.set_index('submissionNumber')
     media_links = pd.read_csv("ohbm-ALL-poster-links.csv")
@@ -26,10 +26,6 @@ def add_urls(df_abstract, df_raw):
         if str(idx) in df_raw.index:
             speakers = df_raw.loc[str(idx), 'speakers']['speaker']
             email = speakers[0]['email']
-            # if isinstance(speakers, list):
-            #     email = speakers[0]['email']
-            # else:
-            #     email = speakers['email']
             title = str.lower(row['title'])
             # filter out people with more than one first author paper
             mask = media_links['Email'].isin([email]) & media_links['Title'].isin([title])
@@ -37,7 +33,7 @@ def add_urls(df_abstract, df_raw):
             if sum(mask) == 1:
                 pdf, video = media_links.loc[mask, ['PDF Link', 'Thumbnail Link']].values.tolist()[0]
                 df_abstract.loc[idx, "pdf"] = pdf
-                df_abstract.loc[idx, "video"] = video
+                # df_abstract.loc[idx, "video"] = video
     return df_abstract.reset_index()
 
 
