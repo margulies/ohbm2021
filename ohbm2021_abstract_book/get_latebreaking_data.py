@@ -1,8 +1,8 @@
 """
 Grab late breaking data and transform to the same format as the existing ones
 """
-from re import L
 import pandas as pd
+
 from parser_web import main as parser
 from utils import compile_authros_index, category_to_df, add_urls
 
