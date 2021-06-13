@@ -36,8 +36,7 @@
 \usepackage{listofitems}
 
 % To do: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% include late-breaking abstract
-% include correct links to video and pdf
+% include links to video
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \title{OHBM 2021 Abstracts}
 \begin{document}%
@@ -49,14 +48,14 @@
         \begin{flushleft}
           \label{\ID}
           \noindent\hbox to -4pt{\hss \textcolor{red}{\small \textbf{\ID}}\hskip2pt}
-          \hskip1pt\textcolor{blue}{\small \href{\URL}{\textbf{\title}}}\\
+          \hskip1pt\textcolor{blue}{\small \textbf{\title}}\\
           {\footnotesize \Authors}\\
           \textit{\footnotesize \Institution}\\
-          {\footnotesize
-            \href{\pdf}{\textbf{PDF}} |
-            % \href{\video}{\textbf{Video}} |
-            \footnotesize \href{https://ohbm.sparkle.space/in/poster\ID}{\textbf{See on sparkle}} |
-            \href{https://firebasestorage.googleapis.com/v0/b/sparkle-ohbm.appspot.com/o/assets\%2Fcalendars\%2Fposters\%2Fposter\ID.ics?alt=media}{\textbf{Download schedule to your calendar}}
+          \textcolor{blue}{\footnotesize
+            \href{\URL}{\textbf{Abstract}} |
+            \href{\pdf}{\textbf{Poster PDF}} |
+            \href{https://firebasestorage.googleapis.com/v0/b/sparkle-ohbm.appspot.com/o/assets\%2Fcalendars\%2Fposters\%2Fposter\ID.ics?alt=media}{\textbf{Standby Times}} |
+            \href{https://ohbm.sparkle.space/in/poster\ID}{\textbf{Visit poster}}
           }\\
         \end{flushleft}
         \vspace{10pt}
@@ -70,7 +69,7 @@
     \noindent
     \begin{flushleft}
       \setsepchar{,}
-      \DTLloaddb[noheader,keys={last,first,submissionNumbers}]{index}{2021_authors_index.csv}
+      \DTLloaddb[keys={last,first,submissionNumbers}]{index}{2021_authors_index.csv}
       \DTLforeach*{index}{\Last=last,\First=first,\submissionNumbers=submissionNumbers}{
         {\footnotesize \Last}, {\footnotesize \First} \readlist*\abstractlist{\submissionNumbers}
         \foreachitem\ID\in\abstractlist[]{\ifnum\IDcnt=1\else, \fi\textcolor{red}{\footnotesize \hyperref[\ID]{\ID}}}\\
@@ -84,7 +83,7 @@
     \noindent
     \begin{flushleft}
       \setsepchar{,}
-      \DTLloaddb[noheader,keys={category,submissionNumbersC}]{indexC}{2021_categories_index.csv}
+      \DTLloaddb[keys={category,submissionNumbersC}]{indexC}{2021_categories_index.csv}
       \DTLforeach*{indexC}{\Category=category,\submissionNumbersC=submissionNumbersC}{
         \readlist*\abstractlistC{\submissionNumbersC}{
           \ifnum\abstractlistC[]\cnt=0\vspace{10pt}{\large {\textbf\Category}}\\*
@@ -103,7 +102,7 @@
     \noindent
     \begin{flushleft}
       \setsepchar{,}
-      \DTLloaddb[noheader,keys={highlights,submissionNumbersH}]{indexH}{2021_abstract_highlights.csv}
+      \DTLloaddb[keys={highlights,submissionNumbersH}]{indexH}{2021_abstract_highlights.csv}
       \DTLforeach*{indexH}{\Highlights=highlights,\submissionNumbersH=submissionNumbersH}{
         \readlist*\abstractlistH{\submissionNumbersH}
         \vspace{10pt}{\normalsize \textbf{\Highlights}}\\*
