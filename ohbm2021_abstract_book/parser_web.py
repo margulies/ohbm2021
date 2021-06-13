@@ -4,7 +4,6 @@ import pandas as pd
 from bs4 import BeautifulSoup as Soup
 import xmltodict
 from decouple import config
-import pickle
 
 
 df_cols = [
