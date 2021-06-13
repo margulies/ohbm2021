@@ -91,7 +91,7 @@ def main(late_break=False):
             else:
                 print("ID exist...")
         df = pd.DataFrame(consolidated_dict).T
-        df = df[df_cols]
+        # df = df[df_cols]
         df.to_pickle("data/abstracts_content.pkl")
 
     bool_late = df["abstractNumber"].isin(late_abstract_list)
@@ -100,12 +100,12 @@ def main(late_break=False):
         df["abstractNumber"][bool_first].tolist()
     )
     if late_break:
-        df_late = df[bool_late]
+        df_late = df.loc[bool_late, df_cols]
         df_late.to_pickle("data/latebreak_abstracts_content.pkl")
         return df_late
     else:
         df_accepted = pd.concat([df[bool_first], df[bool_late]], axis=0)
-
+        df_accepted = df_accepted[df_cols]
         print(f"After filtering: {df_accepted.shape[0]}")
         print("Missing from database:")
         print(missing)
