@@ -1,243 +1,247 @@
-Title,Speaker,Moderator,Date Start,Time Start,Date End,Time End,Location,TimeZoneBlock,Categories,UID,EVENTID
-Combinatorial Creatures: Cortical Plasticity Within and Across Lifetimes,Leah Krubitzer,Simon Eickhoff,20210621,141000,20210621,150000,mainauditorium,AmericasEurope,Talairach,597643f6-aeb4-11eb-b5d4-1e00b921e125,uxe65JHaerBSenROXDZ1
-INS-fMRI: a method for mapping mesoscale connectomes in nonhuman primates,Anna Wang Roe,Randy Gollub,20210622,141000,20210622,150000,mainauditorium,AmericasEurope,Keynote,597663a4-aeb4-11eb-b254-1e00b921e125,O0bHpZuQmm45CNZ0Ppt0
-Integrating mesoscale human brain measurements in the human visual pathways,Dora Hermes,Aina Puce,20210624,141000,20210624,150000,mainauditorium,AmericasEurope,Keynote,59767952-aeb4-11eb-9315-1e00b921e125,h4ZUfpAojOLLd8YgOWWP
-Neurodevelopment of the Association Cortices: Normative Patterns and Implications for Psychopathology,Ted Satterthwaite,Mallar Chakravarty,20210623,141000,20210623,150000,mainauditorium,AmericasEurope,Keynote,59768e62-aeb4-11eb-9898-1e00b921e125,TjQQ7qLqPPnKcb8UziWf
-Characterizing Brain Microstructure Using Magnetic Resonance Imaging: Towards In-Vivo Histology,Nikolaus Weiskopf,Christophe Phillips,20210625,141000,20210625,150000,mainauditorium,AmericasEurope,Keynote,5976a31e-aeb4-11eb-aca8-1e00b921e125,KYaj6la0fTD3ET4nGs7e
-Combinatorial Creatures: Cortical Plasticity Within and Across Lifetimes,Leah Krubitzer,Daniel Margulies,20210621,221000,20210621,230000,mainauditorium,AmericasAsia,Talairach,5976bb2e-aeb4-11eb-99b6-1e00b921e125,IIxmYexdUMms22LHrTrT
-INS-fMRI: a method for mapping mesoscale connectomes in nonhuman primates,Anna Wang Roe,TBD,20210624,221000,20210624,230000,mainauditorium,AmericasAsia,Keynote,5976d034-aeb4-11eb-8972-1e00b921e125,X9N4uFAyfJ6tYgMzYf92
-Integrating mesoscale human brain measurements in the human visual pathways,Dora Hermes,Sepideh Sadaghiani,20210622,221000,20210622,230000,mainauditorium,AmericasAsia,Keynote,5976e478-aeb4-11eb-854f-1e00b921e125,QyIChZWraja1J1biZFnR
-Neurodevelopment of the Association Cortices: Normative Patterns and Implications for Psychopathology,Ted Satterthwaite,Emily Finn,20210625,221000,20210625,230000,mainauditorium,AmericasAsia,Keynote,5976f8b4-aeb4-11eb-962f-1e00b921e125,NjrR2XJyjcFBpXd7wMZl
-Characterizing Brain Microstructure Using Magnetic Resonance Imaging: Towards In-Vivo Histology,Nikolaus Weiskopf,Aman Badhwar,20210623,221000,20210623,230000,mainauditorium,AmericasAsia,Keynote,59770d68-aeb4-11eb-aa40-1e00b921e125,Wap342qgc6uHoBZLZxuo
-Neuroanatomy for Neuroimagers: Bringing a systems-level perspective to neuroimaging analyses,,,20210621,151000,20210621,160000,symposiumhall1,AmericasEurope,Symposium,59772186-aeb4-11eb-8336-1e00b921e125,HBymznWSKK7dPH4z2S49
-Current frontiers in statistical inference for neuroimaging data,,,20210621,151000,20210621,160000,symposiumhall2,AmericasEurope,Symposium,59773568-aeb4-11eb-9f19-1e00b921e125,ZgN4vPJek1gWUnRlAXh5
-"Neuromodulation of Disrupted Brain Networks: Mechanisms, Optimal Targeting, and Individual Treatment",,,20210621,151000,20210621,160000,symposiumhall3,AmericasEurope,Symposium,59774922-aeb4-11eb-a52c-1e00b921e125,EfCdkBBke5KBfU3E7ds5
-All Hands on Deck: Patching the Leaky Academic Pipeline (SP SIG),,,20210621,151000,20210621,160000,symposiumhall4,AmericasEurope,Symposium,59775d0c-aeb4-11eb-b092-1e00b921e125,HiTtXvQVoUB44WQeiaJl
-Neuroanatomy for Neuroimagers: Bringing a systems-level perspective to neuroimaging analyses,,,20210623,231000,20210624,0,symposiumhall1,AmericasAsia,Symposium,5977729e-aeb4-11eb-b74d-1e00b921e125,i3o2UnCotj12Giq6e947
-Current frontiers in statistical inference for neuroimaging data,,,20210623,231000,20210624,0,symposiumhall2,AmericasAsia,Symposium,597788cc-aeb4-11eb-a9ea-1e00b921e125,gHBrDatBtZhQXJWC6Wh1
-"Neuromodulation of Disrupted Brain Networks: Mechanisms, Optimal Targeting, and Individual Treatment",,,20210623,231000,20210624,0,symposiumhall3,AmericasAsia,Symposium,59779d6e-aeb4-11eb-9c61-1e00b921e125,6NvWb305goVTEP4pZVKh
-All Hands on Deck: Patching the Leaky Academic Pipeline (SP SIG),,,20210623,231000,20210624,0,symposiumhall4,AmericasAsia,Symposium,5977b18c-aeb4-11eb-b6d8-1e00b921e125,nBogBhtrjDeDl0sqF0I6
-Mapping cortical morphology in the human and non-human primate brain and relations to function,,,20210624,151000,20210624,160000,symposiumhall1,AmericasEurope,Symposium,5977c7da-aeb4-11eb-8f85-1e00b921e125,eJwTpjP44DU20IwCKzlr
-OHBM-DGKN Alliance: International Symposium on Network Reorganization after Stroke,,,20210624,151000,20210624,160000,symposiumhall2,AmericasEurope,Symposium,5977dee6-aeb4-11eb-8f4a-1e00b921e125,oyadYFEHzBT2Wp0o2CPe
-Advances in functional neuroimaging of spontaneous thought,,,20210624,151000,20210624,160000,symposiumhall3,AmericasEurope,Symposium,5977f070-aeb4-11eb-bcad-1e00b921e125,TXD4Q68iDYD1Z3g576XB
-Diversity Symposium: Racial Bias in Neuroscience,,,20210624,151000,20210624,160000,symposiumhall4,AmericasEurope,Symposium,5977f8fe-aeb4-11eb-880d-1e00b921e125,U5FSXXDizfVWgxbB4roa
-Mapping cortical morphology in the human and non-human primate brain and relations to function,,,20210621,231000,20210622,0,symposiumhall1,AmericasAsia,Symposium,59780006-aeb4-11eb-8ebf-1e00b921e125,DBSacIs7sO1Knm3lBi1L
-OHBM-DGKN Alliance: International Symposium on Network Reorganization after Stroke,,,20210621,231000,20210622,0,symposiumhall2,AmericasAsia,Symposium,597806b4-aeb4-11eb-97b0-1e00b921e125,n1rp6u1Olj7zGnXCx0uz
-Advances in functional neuroimaging of spontaneous thought,,,20210621,231000,20210622,0,symposiumhall3,AmericasAsia,Symposium,59780d4c-aeb4-11eb-936e-1e00b921e125,4WTfvVl0mhtvq3Wb4xlH
-Diversity Symposium: Racial Bias in Neuroscience,,,20210621,231000,20210622,0,symposiumhall4,AmericasAsia,Symposium,597813f4-aeb4-11eb-ae28-1e00b921e125,Z6GFzXgPxSakH3qIAYco
-"Imaging the Brainstem: Approaches, Challenges and Opportunities",,,20210622,151000,20210622,160000,symposiumhall1,AmericasEurope,Symposium,59781ad2-aeb4-11eb-973c-1e00b921e125,vyaOVawTCiiJxaTZ0C1A
-Learning from high-dimensional neuroimaging data,,,20210622,151000,20210622,160000,symposiumhall2,AmericasEurope,Symposium,597821a8-aeb4-11eb-ad15-1e00b921e125,GRymf1QbyMaO4gqGHpTO
-Addressing the Social Limitations in Open Science,,,20210622,151000,20210622,160000,symposiumhall3,AmericasEurope,Symposium,59782874-aeb4-11eb-93c3-1e00b921e125,TZhyd69hNGfz94wPo3h8
-PET Imaging of Brain Connectivity: Hype or Future?,,,20210622,151000,20210622,160000,symposiumhall4,AmericasEurope,Symposium,59782f40-aeb4-11eb-9db6-1e00b921e125,E1u7021dvuLIehMzidHD
-"Imaging the Brainstem: Approaches, Challenges and Opportunities",,,20210624,231000,20210625,0,symposiumhall1,AmericasAsia,Symposium,59783648-aeb4-11eb-bcd0-1e00b921e125,1peOhL69vLy3e9IZvND9
-Learning from high-dimensional neuroimaging data,,,20210624,231000,20210625,0,symposiumhall2,AmericasAsia,Symposium,5978426e-aeb4-11eb-aaff-1e00b921e125,0VjUwdyVpWiHbgF0EdhH
-Addressing the Social Limitations in Open Science,,,20210624,231000,20210625,0,symposiumhall3,AmericasAsia,Symposium,59784976-aeb4-11eb-bd2f-1e00b921e125,EIOJr3wZ764WVI0kk4RQ
-PET Imaging of Brain Connectivity: Hype or Future?,,,20210624,231000,20210625,0,symposiumhall4,AmericasAsia,Symposium,59785024-aeb4-11eb-af97-1e00b921e125,6hOKosPTJ8dnOUK3l43w
-From bench to bed-side: Quantifying brain microstructure using multi-parameter MRI,,,20210625,151000,20210625,160000,symposiumhall1,AmericasEurope,Symposium,597856d2-aeb4-11eb-847a-1e00b921e125,gWBYhYFxHzNxeBakdfHX
-Identifying and reducing model bias in network neuroscience,,,20210625,151000,20210625,160000,symposiumhall2,AmericasEurope,Symposium,59785d6c-aeb4-11eb-9dfd-1e00b921e125,MI649Rt56T9JB6EcGaso
-Simultaneous MRI-PET imaging: recent developments and future directions,,,20210625,151000,20210625,160000,symposiumhall3,AmericasEurope,Symposium,59786410-aeb4-11eb-aa13-1e00b921e125,6AkX98IK2Pg02S4lG9Jt
-Stress sensitivity as a predictor of long-term vulnerability versus stress resilience,,,20210625,151000,20210625,160000,symposiumhall4,AmericasEurope,Symposium,59786a82-aeb4-11eb-900a-1e00b921e125,mCcQj1bFEzqvYipvD98M
-How can scientists respond to the climate emergency? A guide from the SEA SIG,,,20210625,151000,20210625,160000,mainauditorium,AmericasEurope,Symposium,597870ae-aeb4-11eb-80d4-1e00b921e125,98aMNlOeZwHa8hHGebfF
-From bench to bed-side: Quantifying brain microstructure using multi-parameter MRI,,,20210622,231000,20210623,0,symposiumhall1,AmericasAsia,Symposium,597876e4-aeb4-11eb-a076-1e00b921e125,RRga02mHLm3GMJ1yJuQQ
-Identifying and reducing model bias in network neuroscience,,,20210622,231000,20210623,0,symposiumhall2,AmericasAsia,Symposium,59787d42-aeb4-11eb-b9e1-1e00b921e125,yMcat1FlPkXhvq4LQBTu
-Simultaneous MRI-PET imaging: recent developments and future directions,,,20210622,231000,20210623,0,symposiumhall3,AmericasAsia,Symposium,59788398-aeb4-11eb-83c8-1e00b921e125,SFV7NnLRGSFJYwF0ssNz
-Stress sensitivity as a predictor of long-term vulnerability versus stress resilience,,,20210622,231000,20210623,0,symposiumhall4,AmericasAsia,Symposium,597889fe-aeb4-11eb-8c53-1e00b921e125,tagg5JwAdG0FbXLQJwvk
-How can scientists respond to the climate emergency? A guide from the SEA SIG,,,20210622,231000,20210623,0,mainauditorium,AmericasAsia,Symposium,59789066-aeb4-11eb-80aa-1e00b921e125,JyIoY6T7custaUaTjJQn
-"Communication in brain networks: models, mechanisms, and applications",,,20210623,151000,20210623,160000,symposiumhall1,AmericasEurope,Symposium,59789692-aeb4-11eb-9f9e-1e00b921e125,lyo7as3mRL7ayIn6K1TI
-Innovations in Multimodal Data Fusion and Data-Driven Discovery in Population Neuroimaging,,,20210623,151000,20210623,160000,symposiumhall2,AmericasEurope,Symposium,59789cd2-aeb4-11eb-8780-1e00b921e125,2NX0pWvMBEhhjcwLeQLF
-Emerging research in infant neuroimaging: a Fit'ng overview,,,20210623,151000,20210623,160000,symposiumhall3,AmericasEurope,Symposium,5978a312-aeb4-11eb-89a6-1e00b921e125,xxehehzo8ssLFlwIcMFQ
-Spatio-temporal brain dynamics across consciousness levels in clinical and healthy populations,,,20210623,151000,20210623,160000,symposiumhall4,AmericasEurope,Symposium,5978a9a2-aeb4-11eb-a218-1e00b921e125,saftIsOyoPN3Pl403o0I
-"Communication in brain networks: models, mechanisms, and applications",,,20210625,231000,20210626,0,symposiumhall1,AmericasAsia,Symposium,5978b034-aeb4-11eb-8e9b-1e00b921e125,9qFSbtXvfbeHKhumahGv
-Innovations in Multimodal Data Fusion and Data-Driven Discovery in Population Neuroimaging,,,20210625,231000,20210626,0,symposiumhall2,AmericasAsia,Symposium,5978b6c2-aeb4-11eb-971d-1e00b921e125,xQJ27bOp4fmPNbr3POuI
-Emerging research in infant neuroimaging: a Fit'ng overview,,,20210625,231000,20210626,0,symposiumhall3,AmericasAsia,Symposium,5978bd48-aeb4-11eb-a168-1e00b921e125,X3GyDguKrbvqtiwXruPO
-Spatio-temporal brain dynamics across consciousness levels in clinical and healthy populations,,,20210625,231000,20210626,0,symposiumhall4,AmericasAsia,Symposium,5978c3cc-aeb4-11eb-8636-1e00b921e125,IIHMyA6N9cMrK4AMH4YT
-"Perception, Attention and Motor Behavior",,,20210625,160000,20210625,163000,symposiumhall1,AmericasEurope,Poster Highlights,59793480-aeb4-11eb-9d0a-1e00b921e125,
-"Perception, Attention and Motor Behavior",,,20210624,0,20210624,3000,symposiumhall1,AmericasAsia,Poster Highlights,59798586-aeb4-11eb-a6c4-1e00b921e125,
-"Perception, Attention and Motor Behavior",,,20210622,90000,20210622,93000,symposiumhall1,EuropeAsia,Poster Highlights,5979e1be-aeb4-11eb-9d86-1e00b921e125,
-Learning and Memory,,,20210621,160000,20210621,163000,symposiumhall1,AmericasEurope,Poster Highlights,5978fefa-aeb4-11eb-9b18-1e00b921e125,
-Learning and Memory,,,20210623,0,20210623,3000,symposiumhall1,AmericasAsia,Poster Highlights,5979696e-aeb4-11eb-8859-1e00b921e125,
-Learning and Memory,,,20210624,90000,20210624,93000,symposiumhall1,EuropeAsia,Poster Highlights,597a2d06-aeb4-11eb-bc74-1e00b921e125,
-Neuroanatomy,,,20210623,160000,20210623,163000,symposiumhall4,AmericasEurope,Poster Highlights,5979123e-aeb4-11eb-b78c-1e00b921e125,
-Neuroanatomy,,,20210625,0,20210625,3000,symposiumhall4,AmericasAsia,Poster Highlights,5979b734-aeb4-11eb-bef2-1e00b921e125,
-Neuroanatomy,,,20210622,90000,20210622,93000,symposiumhall3,EuropeAsia,Poster Highlights,5979fe42-aeb4-11eb-a44c-1e00b921e125,
-Higher Cognitive Functions,,,20210622,160000,20210622,163000,symposiumhall1,AmericasEurope,Poster Highlights,5978e4d0-aeb4-11eb-8a89-1e00b921e125,StyEJ4N69CPye9isdNmz
-Higher Cognitive Functions,,,20210626,0,20210626,3000,symposiumhall1,AmericasAsia,Poster Highlights,5979be28-aeb4-11eb-b8ed-1e00b921e125,
-Higher Cognitive Functions,,,20210624,80000,20210624,83000,symposiumhall1,EuropeAsia,Poster Highlights,597a2548-aeb4-11eb-b1c2-1e00b921e125,
-"Social Neuroscience, Emotion and Motivation",,,20210623,160000,20210623,163000,symposiumhall1,AmericasEurope,Poster Highlights,5978ca90-aeb4-11eb-bd0e-1e00b921e125,CSKCU1oaLNKNFFLVhniu
-"Social Neuroscience, Emotion and Motivation",,,20210625,0,20210625,3000,symposiumhall1,AmericasAsia,Poster Highlights,5979a1d8-aeb4-11eb-8779-1e00b921e125,
-"Social Neuroscience, Emotion and Motivation",,,20210622,80000,20210622,83000,symposiumhall1,EuropeAsia,Poster Highlights,5979daac-aeb4-11eb-9d14-1e00b921e125,
-Lifespan Development,,,20210624,160000,20210624,163000,symposiumhall3,AmericasEurope,Poster Highlights,5979272e-aeb4-11eb-a712-1e00b921e125,
-Lifespan Development,,,20210624,0,20210624,3000,symposiumhall3,AmericasAsia,Poster Highlights,597993d0-aeb4-11eb-82b4-1e00b921e125,
-Lifespan Development,,,20210622,90000,20210622,93000,symposiumhall4,EuropeAsia,Poster Highlights,597a0d10-aeb4-11eb-9235-1e00b921e125,
-Disorders of the Nervous System - Neurodevelopmental/Early Life,,,20210622,160000,20210622,163000,symposiumhall4,AmericasEurope,Poster Highlights,5978f862-aeb4-11eb-aa04-1e00b921e125,TZWJbl3X413m32FFFhdz
-Disorders of the Nervous System - Neurodevelopmental/Early Life,,,20210622,0,20210622,3000,symposiumhall4,AmericasAsia,Poster Highlights,597962ca-aeb4-11eb-be57-1e00b921e125,
-Disorders of the Nervous System - Neurodevelopmental/Early Life,,,20210624,80000,20210624,83000,symposiumhall4,EuropeAsia,Poster Highlights,597a5324-aeb4-11eb-9cbe-1e00b921e125,
-Disorders of the Nervous System - Neurodegenerative/Late Life,,,20210621,160000,20210621,163000,symposiumhall3,AmericasEurope,Poster Highlights,5978d7ec-aeb4-11eb-bc0d-1e00b921e125,l5Re4ijGjZziOq9L1Y7v
-Disorders of the Nervous System - Neurodegenerative/Late Life,,,20210623,0,20210623,3000,symposiumhall3,AmericasAsia,Poster Highlights,59797768-aeb4-11eb-ae4a-1e00b921e125,
-Disorders of the Nervous System - Neurodegenerative/Late Life,,,20210624,90000,20210624,93000,symposiumhall4,EuropeAsia,Poster Highlights,597a5aa4-aeb4-11eb-910c-1e00b921e125,
-Disorders of the Nervous System - Psychiatric,,,20210623,160000,20210623,163000,symposiumhall3,AmericasEurope,Poster Highlights,59790be2-aeb4-11eb-90cf-1e00b921e125,
-Disorders of the Nervous System - Psychiatric,,,20210626,0,20210626,3000,symposiumhall3,AmericasAsia,Poster Highlights,5979cc7e-aeb4-11eb-941e-1e00b921e125,
-Disorders of the Nervous System - Psychiatric,,,20210622,80000,20210622,83000,mainauditorium,EuropeAsia,Poster Highlights,597a14ae-aeb4-11eb-a263-1e00b921e125,
-"Physiology, Metabolism and Neurotransmission",,,20210625,160000,20210625,163000,symposiumhall3,AmericasEurope,Poster Highlights,597941be-aeb4-11eb-abd1-1e00b921e125,
-"Physiology, Metabolism and Neurotransmission",,,20210625,0,20210625,3000,symposiumhall3,AmericasAsia,Poster Highlights,5979b00c-aeb4-11eb-a8eb-1e00b921e125,
-"Physiology, Metabolism and Neurotransmission",,,20210622,80000,20210622,83000,symposiumhall4,EuropeAsia,Poster Highlights,597a057a-aeb4-11eb-9960-1e00b921e125,
-Brain Stimulation,,,20210621,160000,20210621,163000,symposiumhall4,AmericasEurope,Poster Highlights,5978de74-aeb4-11eb-b80f-1e00b921e125,9o1uxKQyOYV8B4isMUbm
-Brain Stimulation,,,20210626,0,20210626,3000,symposiumhall4,AmericasAsia,Poster Highlights,5979d386-aeb4-11eb-830b-1e00b921e125,
-Brain Stimulation,,,20210624,90000,20210624,93000,mainauditorium,EuropeAsia,Poster Highlights,597a69e2-aeb4-11eb-82a8-1e00b921e125,
-Novel Imaging Acquisition Methods,,,20210625,160000,20210625,163000,symposiumhall4,AmericasEurope,Poster Highlights,59794876-aeb4-11eb-9e69-1e00b921e125,
-Novel Imaging Acquisition Methods,,,20210623,0,20210623,3000,symposiumhall4,AmericasAsia,Poster Highlights,59797e68-aeb4-11eb-8e55-1e00b921e125,
-Novel Imaging Acquisition Methods,,,20210624,80000,20210624,83000,mainauditorium,EuropeAsia,Poster Highlights,597a6262-aeb4-11eb-9845-1e00b921e125,
-Modeling and Analysis - Connectivity,,,20210625,160000,20210625,163000,symposiumhall2,AmericasEurope,Poster Highlights,59793b2e-aeb4-11eb-8346-1e00b921e125,
-Modeling and Analysis - Connectivity,,,20210622,0,20210622,3000,symposiumhall3,AmericasAsia,Poster Highlights,59795c4c-aeb4-11eb-ab40-1e00b921e125,
-Modeling and Analysis - Connectivity,,,20210624,80000,20210624,83000,symposiumhall3,EuropeAsia,Poster Highlights,597a43e8-aeb4-11eb-84c0-1e00b921e125,
-Modeling and Analysis - Activation,,,20210624,160000,20210624,163000,symposiumhall2,AmericasEurope,Poster Highlights,59791f36-aeb4-11eb-ad4a-1e00b921e125,
-Modeling and Analysis - Activation,,,20210626,0,20210626,3000,symposiumhall2,AmericasAsia,Poster Highlights,5979c56c-aeb4-11eb-98a0-1e00b921e125,
-Modeling and Analysis - Activation,,,20210622,90000,20210622,93000,symposiumhall2,EuropeAsia,Poster Highlights,5979f01e-aeb4-11eb-a36e-1e00b921e125,
-Modeling and Analysis - Multivariate Approaches,,,20210622,160000,20210622,163000,symposiumhall3,AmericasEurope,Poster Highlights,5978f1a8-aeb4-11eb-ae6f-1e00b921e125,6vbhqwNykhI9S5IWTgAo
-Modeling and Analysis - Multivariate Approaches,,,20210624,0,20210624,3000,symposiumhall2,AmericasAsia,Poster Highlights,59798c82-aeb4-11eb-987b-1e00b921e125,
-Modeling and Analysis - Multivariate Approaches,,,20210624,90000,20210624,93000,symposiumhall2,EuropeAsia,Poster Highlights,597a3c40-aeb4-11eb-a1b1-1e00b921e125,
-Neuroinformatics and Data Sharing,,,20210623,160000,20210623,163000,symposiumhall2,AmericasEurope,Poster Highlights,59790598-aeb4-11eb-a793-1e00b921e125,
-Neuroinformatics and Data Sharing,,,20210625,0,20210625,3000,symposiumhall2,AmericasAsia,Poster Highlights,5979a8e8-aeb4-11eb-b838-1e00b921e125,
-Neuroinformatics and Data Sharing,,,20210622,80000,20210622,83000,symposiumhall3,EuropeAsia,Poster Highlights,5979f74c-aeb4-11eb-9031-1e00b921e125,
-Software Demonstrations,,,20210621,160000,20210621,163000,symposiumhall2,AmericasEurope,Poster Highlights,5978d152-aeb4-11eb-a85f-1e00b921e125,hLQmeE6y93M3w4MUcI2U
-Software Demonstrations,,,20210623,0,20210623,3000,symposiumhall2,AmericasAsia,Poster Highlights,59797062-aeb4-11eb-a028-1e00b921e125,
-Software Demonstrations,,,20210624,90000,20210624,93000,symposiumhall3,EuropeAsia,Poster Highlights,597a4b7a-aeb4-11eb-96e2-1e00b921e125,
-Genetics,,,20210624,160000,20210624,163000,symposiumhall4,AmericasEurope,Poster Highlights,59792ddc-aeb4-11eb-a9b4-1e00b921e125,
-Genetics,,,20210624,0,20210624,3000,symposiumhall4,AmericasAsia,Poster Highlights,59799acc-aeb4-11eb-98fb-1e00b921e125,
-Genetics,,,20210622,90000,20210622,93000,mainauditorium,EuropeAsia,Poster Highlights,597a1da8-aeb4-11eb-b12a-1e00b921e125,
-Language,,,20210624,160000,20210624,163000,symposiumhall1,AmericasEurope,Poster Highlights,597918ba-aeb4-11eb-99e0-1e00b921e125,
-Language,,,20210622,0,20210622,3000,symposiumhall1,AmericasAsia,Poster Highlights,59794f38-aeb4-11eb-82bf-1e00b921e125,
-Language,,,20210622,80000,20210622,83000,symposiumhall2,EuropeAsia,Poster Highlights,5979e90c-aeb4-11eb-9d02-1e00b921e125,
-"Sleep, Consciousness, Pain",,,20210622,160000,20210622,163000,symposiumhall2,AmericasEurope,Poster Highlights,5978eb2e-aeb4-11eb-b511-1e00b921e125,nVhA1AhgXhYX58qVvvRA
-"Sleep, Consciousness, Pain",,,20210622,0,20210622,3000,symposiumhall2,AmericasAsia,Poster Highlights,597955d2-aeb4-11eb-b2a4-1e00b921e125,
-"Sleep, Consciousness, Pain",,,20210624,80000,20210624,83000,symposiumhall2,EuropeAsia,Poster Highlights,597a34a2-aeb4-11eb-a9e5-1e00b921e125,
-"Social Neuroscience, Emotion and Motivation",,,20210623,160000,20210623,170000,posterhall,AmericasEurope,Posters,597a7158-aeb4-11eb-80ef-1e00b921e125,rPkpT8EPKZY6SzuFLeRa
-Software Demonstrations,,,20210621,160000,20210621,170000,posterhall,AmericasEurope,Posters,597a78d8-aeb4-11eb-b53b-1e00b921e125,YKhZmORc35Ss4MQCGvvb
-Disorders of the Nervous System - Neurodegenerative/Late Life,,,20210621,160000,20210621,170000,posterhall,AmericasEurope,Posters,597a813a-aeb4-11eb-8752-1e00b921e125,IzsXZwMfwUURkZqLYBnp
-Brain Stimulation,,,20210621,160000,20210621,170000,posterhall,AmericasEurope,Posters,597a88ee-aeb4-11eb-b38d-1e00b921e125,GYKn4DwJKxjMgHHQHROG
-Higher Cognitive Functions,,,20210622,160000,20210622,170000,posterhall,AmericasEurope,Posters,597a90d2-aeb4-11eb-a40e-1e00b921e125,hdQRXlv5v5cJtB4JCDlS
-"Sleep, Consciousness, Pain",,,20210622,160000,20210622,170000,posterhall,AmericasEurope,Posters,597a9852-aeb4-11eb-a6df-1e00b921e125,O0z0Ls7ev6p1ghgYd9Uz
-Modeling and Analysis - Multivariate Approaches,,,20210622,160000,20210622,170000,posterhall,AmericasEurope,Posters,597aa734-aeb4-11eb-8ce0-1e00b921e125,whabMMi3SQl9NvofzpfE
-Disorders of the Nervous System - Neurodevelopmental/Early Life,,,20210622,160000,20210622,170000,posterhall,AmericasEurope,Posters,597ab698-aeb4-11eb-b977-1e00b921e125,O4QX9Y1ftq397lP3nOqP
-Learning and Memory,,,20210621,160000,20210621,170000,posterhall,AmericasEurope,Posters,597ac658-aeb4-11eb-8e0a-1e00b921e125,GQLjAUDoqOPHRbMTLsma
-Neuroinformatics and Data Sharing,,,20210623,160000,20210623,170000,posterhall,AmericasEurope,Posters,597ad5b0-aeb4-11eb-904d-1e00b921e125,EgDx7OyPQbmgHusOAFCf
-Disorders of the Nervous System - Psychiatric,,,20210623,160000,20210623,170000,posterhall,AmericasEurope,Posters,597ae4ec-aeb4-11eb-bb0f-1e00b921e125,NwOXHzdEAD27veL8Vuym
-Neuroanatomy,,,20210623,160000,20210623,170000,posterhall,AmericasEurope,Posters,597aeeba-aeb4-11eb-b231-1e00b921e125,LyEteHyPIafae4Onq0xs
-Language,,,20210624,160000,20210624,170000,posterhall,AmericasEurope,Posters,597af646-aeb4-11eb-ba4c-1e00b921e125,o3DxK0jOaxDHHN39rAOk
-Modeling and Analysis - Activation,,,20210624,160000,20210624,170000,posterhall,AmericasEurope,Posters,597afdc6-aeb4-11eb-a4fd-1e00b921e125,fecLfnv5BMqcVtHPHSZH
-Lifespan Development,,,20210624,160000,20210624,170000,posterhall,AmericasEurope,Posters,597b0562-aeb4-11eb-8119-1e00b921e125,k9w5oJNb7xfhBvqvbuKT
-Genetics,,,20210624,160000,20210624,170000,posterhall,AmericasEurope,Posters,597b0d0a-aeb4-11eb-9b4c-1e00b921e125,qCM7zRwJowmea7f6Ypx0
-"Perception, Attention and Motor Behavior",,,20210625,160000,20210625,170000,posterhall,AmericasEurope,Posters,597b14b4-aeb4-11eb-9f28-1e00b921e125,EDvnlBShEeDrMcRJ3jw5
-Modeling and Analysis - Connectivity,,,20210625,160000,20210625,170000,posterhall,AmericasEurope,Posters,597b1c46-aeb4-11eb-aa44-1e00b921e125,aVsD88c6zFB7jaH1JNqS
-"Physiology, Metabolism and Neurotransmission",,,20210625,160000,20210625,170000,posterhall,AmericasEurope,Posters,597b23c6-aeb4-11eb-9665-1e00b921e125,hwnLLKpGHzLdOpaIt2oi
-Novel Imaging Acquisition Methods,,,20210625,160000,20210625,170000,posterhall,AmericasEurope,Posters,597b2b5a-aeb4-11eb-8bda-1e00b921e125,7KmQ0sb2MzO1bD4vRgix
-Language,,,20210622,0,20210622,10000,posterhall,AmericasAsia,Posters,597b3318-aeb4-11eb-bed1-1e00b921e125,cpFzyqC8ttroPjrFP806
-"Sleep, Consciousness, Pain",,,20210622,0,20210622,10000,posterhall,AmericasAsia,Posters,597b431a-aeb4-11eb-810c-1e00b921e125,OXtvvUvjFs6qheOdTuq9
-Modeling and Analysis - Connectivity,,,20210622,0,20210622,10000,posterhall,AmericasAsia,Posters,597b4d10-aeb4-11eb-a67e-1e00b921e125,n2ADQzQFa9NAlntkVCeJ
-Disorders of the Nervous System - Neurodevelopmental/Early Life,,,20210622,0,20210622,10000,posterhall,AmericasAsia,Posters,597b5512-aeb4-11eb-a9a8-1e00b921e125,soKLqyW3YlnIbvq0CSPk
-Learning and Memory,,,20210623,0,20210623,10000,posterhall,AmericasAsia,Posters,597b5de6-aeb4-11eb-bfc4-1e00b921e125,b1f3yxSDMZxcWSOvmbKf
-Software Demonstrations,,,20210623,0,20210623,10000,posterhall,AmericasAsia,Posters,597b6598-aeb4-11eb-8b3f-1e00b921e125,GTjj6kHgTUGC4Mnxpc04
-Disorders of the Nervous System - Neurodegenerative/Late Life,,,20210623,0,20210623,10000,posterhall,AmericasAsia,Posters,597b6d4a-aeb4-11eb-b6de-1e00b921e125,C3nvjNBoGDfZVGtohCY4
-Novel Imaging Acquisition Methods,,,20210623,0,20210623,10000,posterhall,AmericasAsia,Posters,597b74de-aeb4-11eb-884a-1e00b921e125,4QuD2pMLw7eUrT467dVz
-"Perception, Attention and Motor Behavior",,,20210624,0,20210624,10000,posterhall,AmericasAsia,Posters,597b7c54-aeb4-11eb-b3f2-1e00b921e125,5KP19bwpy6lUrlL6MJ4Q
-Modeling and Analysis - Multivariate Approaches,,,20210624,0,20210624,10000,posterhall,AmericasAsia,Posters,597b8462-aeb4-11eb-a38b-1e00b921e125,lf8VrUYatz16FnT7ScNv
-Lifespan Development,,,20210624,0,20210624,10000,posterhall,AmericasAsia,Posters,597b8cc6-aeb4-11eb-af38-1e00b921e125,5jSzEUUIDk5osDY9hzku
-Genetics,,,20210624,0,20210624,10000,posterhall,AmericasAsia,Posters,597b9506-aeb4-11eb-a418-1e00b921e125,GbEHAYtq5W2pWPgU1y58
-"Social Neuroscience, Emotion and Motivation",,,20210625,0,20210625,10000,posterhall,AmericasAsia,Posters,597b9d58-aeb4-11eb-893b-1e00b921e125,5t9UOOE5I90NKE3KmMef
-Neuroinformatics and Data Sharing,,,20210625,0,20210625,10000,posterhall,AmericasAsia,Posters,597ba5b4-aeb4-11eb-ae2a-1e00b921e125,XGntvjvxao3EyYjiGYTl
-"Physiology, Metabolism and Neurotransmission",,,20210625,0,20210625,10000,posterhall,AmericasAsia,Posters,597bade6-aeb4-11eb-9622-1e00b921e125,loTTwLZTzeSAlCGwyyUu
-Neuroanatomy,,,20210625,0,20210625,10000,posterhall,AmericasAsia,Posters,597bb610-aeb4-11eb-b1dd-1e00b921e125,JzCuL8JMNf1qTJcREBWs
-Higher Cognitive Functions,,,20210626,0,20210626,10000,posterhall,AmericasAsia,Posters,597bbe58-aeb4-11eb-9d13-1e00b921e125,6bTJHwZ3Q3XPINHtP4ev
-Modeling and Analysis - Activation,,,20210626,0,20210626,10000,posterhall,AmericasAsia,Posters,597bc66e-aeb4-11eb-81aa-1e00b921e125,jfRLfSKcQXd1eXNLO34R
-Disorders of the Nervous System - Psychiatric,,,20210626,0,20210626,10000,posterhall,AmericasAsia,Posters,597bcf92-aeb4-11eb-81bc-1e00b921e125,cG8otkVnoqHayt1tyeIG
-Brain Stimulation,,,20210626,0,20210626,10000,posterhall,AmericasAsia,Posters,597bdc62-aeb4-11eb-afb4-1e00b921e125,A0Pa8PXk6bLZG4hv2akT
-"Social Neuroscience, Emotion and Motivation",,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597be9f0-aeb4-11eb-9787-1e00b921e125,sS49KFBLISdpfKy21W7B
-"Perception, Attention and Motor Behavior",,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597bf7c6-aeb4-11eb-bcf9-1e00b921e125,tzY8snrNIedwz6u8evV5
-Language,,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597c050c-aeb4-11eb-8a97-1e00b921e125,Y9SZ9I2kPSRlV7776UPS
-Modeling and Analysis - Activation,,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597c136c-aeb4-11eb-93f5-1e00b921e125,
-Neuroinformatics and Data Sharing,,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597c1efa-aeb4-11eb-970a-1e00b921e125,
-Neuroanatomy,,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597c274c-aeb4-11eb-954e-1e00b921e125,
-"Physiology, Metabolism and Neurotransmission",,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597c3006-aeb4-11eb-b70b-1e00b921e125,
-Lifespan Development,,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597c382e-aeb4-11eb-b147-1e00b921e125,
-Disorders of the Nervous System - Psychiatric,,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597c404c-aeb4-11eb-8cea-1e00b921e125,
-Genetics,,,20210622,80000,20210622,100000,posterhall,EuropeAsia,Posters,597c4882-aeb4-11eb-921a-1e00b921e125,
-Higher Cognitive Functions,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597c50de-aeb4-11eb-b9be-1e00b921e125,
-Learning and Memory,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597c5976-aeb4-11eb-bc90-1e00b921e125,
-"Sleep, Consciousness, Pain",,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597c618c-aeb4-11eb-b7e1-1e00b921e125,
-Modeling and Analysis - Multivariate Approaches,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597c6a9c-aeb4-11eb-bde5-1e00b921e125,
-Modeling and Analysis - Connectivity,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597c7794-aeb4-11eb-8e46-1e00b921e125,
-Software Demonstrations,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597c8574-aeb4-11eb-8a4c-1e00b921e125,
-Disorders of the Nervous System - Neurodevelopmental/Early Life,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597c92f6-aeb4-11eb-ae62-1e00b921e125,
-Disorders of the Nervous System - Neurodegenerative/Late Life,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597ca098-aeb4-11eb-9a0a-1e00b921e125,
-Novel Imaging Acquisition Methods,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597cac9e-aeb4-11eb-9086-1e00b921e125,sdhnO59rnwXVBJgA904J
-Brain Stimulation,,,20210624,80000,20210624,100000,posterhall,EuropeAsia,Posters,597cb4e8-aeb4-11eb-84cd-1e00b921e125,Pv7s3JsnvghheZg8BVvd
-Philips Symposium,,,20210622,130000,20210622,140000,symposiumhall1,AmericasEurope,Sponsored Symposia,597cbd76-aeb4-11eb-9b54-1e00b921e125,
-Philips Symposium,,,20210622,210000,20210622,220000,symposiumhall1,AmericasAsia,Sponsored Symposia,597cc5e6-aeb4-11eb-9390-1e00b921e125,
-Siemens Symposium,,,20210623,180000,20210623,190000,symposiumhall1,AmericasEurope,Sponsored Symposia,597cce2e-aeb4-11eb-8468-1e00b921e125,
-Siemens Symposium,,,20210624,20000,20210624,30000,symposiumhall1,AmericasAsia,Sponsored Symposia,597cd63a-aeb4-11eb-a4ff-1e00b921e125,
-Welcome reception,,,20210621,180000,20210621,200000,loungetables,AmericasEurope,Social,597cdea8-aeb4-11eb-9bbe-1e00b921e125,nCmQ23qoJDq4tbJHvF7W
-Welcome reception,,,20210622,20000,20210622,40000,loungetables,AmericasAsia,Social,597ce6de-aeb4-11eb-8a8e-1e00b921e125,xqFM9vXKaNDmqyej5uGS
-Club Night,,,20210624,180000,20210624,200000,clubohbm,AmericasEurope,Social,597ceef4-aeb4-11eb-80ac-1e00b921e125,qBcmlFrkYLengpm5Ktum
-Club Night,,,20210625,20000,20210625,40000,clubohbm,AmericasAsia,Social,597cf70a-aeb4-11eb-8ea8-1e00b921e125,FzfaZuN7sInePtecVUNs
-Student/Postdoc SIG Party,,,20210622,180000,20210622,200000,loungetables,AmericasEurope,Social,597cff3e-aeb4-11eb-9327-1e00b921e125,Tmj5F4mtjVNLOBrGPixI
-Student/Postdoc SIG Party,,,20210623,20000,20210623,40000,loungetables,AmericasAsia,Social,597d077a-aeb4-11eb-86fd-1e00b921e125,PiEVS1EEdIOwsLpA4Xk4
-Closing Session,,,20210625,170000,20210625,180000,mainauditorium,AmericasEurope,Announcements,597d0f92-aeb4-11eb-8e44-1e00b921e125,4ftv7hoLwTnz5hMlQV93
-Closing Session,,,20210626,10000,20210626,20000,mainauditorium,AmericasAsia,Announcements,597d178a-aeb4-11eb-8255-1e00b921e125,DMstBDu0gMdlxCdFwaoa
-Announcements,,Glass Brain Award,20210621,140000,20210621,141000,mainauditorium,AmericasEurope,Announcements,597d1fd2-aeb4-11eb-a4c9-1e00b921e125,S6KGvLWqkqiRJvjIYESu
-Announcements,,"Glass Brain Award, Fellows",20210624,220000,20210624,221000,mainauditorium,AmericasAsia,Announcements,597d2806-aeb4-11eb-86fe-1e00b921e125,ki1MwVtpsWjaeJdXtZ6J
-Announcements,,Early Career Investigator Award,20210621,220000,20210621,221000,mainauditorium,AmericasAsia,Announcements,597d306c-aeb4-11eb-aa0e-1e00b921e125,tsLtuDi9BioDhlIprBoh
-Announcements,,"Early Career Investigator Award, Fellows",20210623,140000,20210623,141000,mainauditorium,AmericasEurope,Announcements,597d38be-aeb4-11eb-b729-1e00b921e125,uWNybJcOsLXK7V8qOq92
-Announcements,,"Open Science Award, Education in Neuroimaging Award",20210622,140000,20210622,141000,mainauditorium,AmericasEurope,Announcements,597d40f4-aeb4-11eb-b4d2-1e00b921e125,QLVcolaVNFdKd7w5v9ig
-Announcements,,"Open Science Award, Education in Neuroimaging Award",20210623,220000,20210623,221000,mainauditorium,AmericasAsia,Announcements,597d494c-aeb4-11eb-99fb-1e00b921e125,sjxEaiLd7pzVwc4vO02G
-Announcements,,"Mentor Award, Diversity Award, Replication Award",20210624,140000,20210624,141000,mainauditorium,AmericasEurope,Announcements,597d51a8-aeb4-11eb-b582-1e00b921e125,jS2rV1JhNcMe1sYrS4tP
-Announcements,,"Mentor Award, Diversity Award, Replication Award",20210622,220000,20210622,221000,mainauditorium,AmericasAsia,Announcements,597d59f4-aeb4-11eb-ae30-1e00b921e125,4qAcTnq8d5zbY4fs8n7w
-Announcements,,New OHBM Leadership,20210625,140000,20210625,141000,mainauditorium,AmericasEurope,Announcements,597d6276-aeb4-11eb-bd19-1e00b921e125,Guy1cPSCCVbeatZfVDJ2
-Announcements,,New OHBM Leadership,20210625,220000,20210625,221000,mainauditorium,AmericasAsia,Announcements,597d6a9e-aeb4-11eb-aa94-1e00b921e125,1DLJ7soJTLpHw3UTILF0
-"Transitioning from academia to industry: Why, when, how and where?",Bimal Lakhani,Student and Postdoc SIG Workshop 1,20210621,170000,20210621,180000,symposiumhall1,AmericasEurope,Roundtable,597d72de-aeb4-11eb-9fb9-1e00b921e125,FYlUQVM20ULz5rTT5SZ8
-"Neuroimaging best practices beyond open science: Ethics, collaborations and high quality research",Satra Ghosh,Student and Postdoc SIG Workshop 2,20210621,170000,20210621,180000,symposiumhall3,AmericasEurope,Roundtable,1aa37e50-b283-11eb-b2e5-1e00b921e125,
-Glass Brain Interview,,,20210621,170000,20210621,180000,symposiumhall2,AmericasEurope,Roundtable,597d937a-aeb4-11eb-91bf-1e00b921e125,rXkwuPzbAayez5FaJ46M
-Open Disucssions,,,20210621,170000,20210621,180000,loungetables,AmericasEurope,Roundtable,6e7c81f6-b207-11eb-89cb-1e00b921e125,
-Chinese Young Scholars,,,20210623,10000,20210623,20000,symposiumhall1,AmericasAsia,Roundtable,597db488-aeb4-11eb-82e0-1e00b921e125,
-Diversity Roundtable,,,20210622,10000,20210622,20000,symposiumhall2,AmericasAsia,Roundtable,597dc506-aeb4-11eb-aaf4-1e00b921e125,UbUI6bY7bpu0MRrK6qMe
-Kidz Live Review - Korean,Soohyun Kim,Diversity and Inclusivity Committee,20210622,10000,20210622,20000,symposiumhall3,AmericasAsia,Roundtable,16914690-aeb8-11eb-b0bf-1e00b921e125,
-Open Disucssions,,,20210622,10000,20210622,20000,loungetables,AmericasAsia,Roundtable,6e7fae26-b207-11eb-bb8d-1e00b921e125,
-Getting the incentives right: Rethinking how we define academic success,Cooper Smout,Student and Postdoc SIG Workshop 3,20210622,10000,20210622,20000,symposiumhall1,AmericasAsia,Roundtable,597d7af4-aeb4-11eb-a675-1e00b921e125,7v17xJJXXMitq0O3C8nA
-Navigating academic careers: What are our options and how can we reach our goals?,Mariam Aly,Student and Postdoc SIG Workshop 4,20210622,10000,20210622,20000,symposiumhall4,AmericasAsia,Roundtable,1aa7456c-b283-11eb-8f8d-1e00b921e125,
-Faliure Five Ways Roundtable,,,20210622,170000,20210622,180000,symposiumhall2,AmericasEurope,Roundtable,597da3e4-aeb4-11eb-8c20-1e00b921e125,rMtjHbwWuVD3rh93gvkp
-OHBM Leadership Open House,,,20210622,170000,20210622,180000,symposiumhall3,AmericasEurope,Roundtable,597deffa-aeb4-11eb-b619-1e00b921e125,avSqgzzGiliVUaxjl4cB
-Open Disucssions,,,20210622,170000,20210622,180000,loungetables,AmericasEurope,Roundtable,6e7fc794-b207-11eb-8cf5-1e00b921e125,
-Aperture & Open Science Roundtable,,,20210623,10000,20210623,20000,symposiumhall1,AmericasAsia,Roundtable,597dd762-aeb4-11eb-9e63-1e00b921e125,Q1MXEN7uNDlyODOpuTpy
-Open Disucssions,,,20210623,10000,20210623,20000,loungetables,AmericasAsia,Roundtable,6e7ff264-b207-11eb-8fb3-1e00b921e125,
-Kidz Live Review - French,Anaïs Llorens,Diversity and Inclusivity Committee,20210623,170000,20210623,180000,symposiumhall1,AmericasEurope,Roundtable,16915da6-aeb8-11eb-9a5e-1e00b921e125,
-Kidz Live Review - Italian,Antea D'Andrea,Diversity and Inclusivity Committee,20210623,170000,20210623,180000,symposiumhall2,AmericasEurope,Roundtable,1691548c-aeb8-11eb-aa00-1e00b921e125,
-Navigating academic careers: What are our options and how can we reach our goals?,Mariam Aly,Student and Postdoc SIG Workshop 4,20210623,170000,20210623,180000,symposiumhall3,AmericasEurope,Roundtable,597d8328-aeb4-11eb-98fd-1e00b921e125,wqAndVrBmmGgrneadZ49
-Getting the incentives right: Rethinking how we define academic success,Cooper Smout,Student and Postdoc SIG Workshop 3,20210623,170000,20210623,180000,symposiumhall4,AmericasEurope,Roundtable,1aa79792-b283-11eb-a6d3-1e00b921e125,
-Open Disucssions,,,20210623,170000,20210623,180000,loungetables,AmericasEurope,Roundtable,6e800b78-b207-11eb-9536-1e00b921e125,
-"Transitioning from academia to industry: Why, when, how and where?",Bimal Lakhani,Student and Postdoc SIG Workshop 1,20210624,10000,20210624,20000,symposiumhall1,AmericasAsia,Roundtable,597d8b70-aeb4-11eb-b622-1e00b921e125,qhwDVUMxj1c8tlMFKyDR
-"Neuroimaging best practices beyond open science: Ethics, collaborations and high quality research",Satra Ghosh,Student and Postdoc SIG Workshop 2,20210624,10000,20210624,20000,symposiumhall3,AmericasAsia,Roundtable,1aa7b062-b283-11eb-9c93-1e00b921e125,
-Faliure Five Ways Roundtable,,,20210624,10000,20210624,20000,symposiumhall2,AmericasAsia,Roundtable,597dac54-aeb4-11eb-ae61-1e00b921e125,ngRTzt9XFT1qyI5Jn79E
-Open Disucssions,,,20210624,10000,20210624,20000,loungetables,AmericasAsia,Roundtable,6e801d5c-b207-11eb-b1a9-1e00b921e125,
-Diversity Roundtable,,,20210624,170000,20210624,180000,symposiumhall1,AmericasEurope,Roundtable,597dbcb4-aeb4-11eb-8a7c-1e00b921e125,OW5rRYJZGUrWbGxg8t4w
-Aperture & Open Science Roundtable,,,20210624,170000,20210624,180000,symposiumhall2,AmericasEurope,Roundtable,597dcedc-aeb4-11eb-8c7c-1e00b921e125,wxW8B28A4nEwdilp5Bdg
-Kidz Live Review - Portuguese,Maria Ribeiro,Diversity and Inclusivity Committee,20210624,170000,20210624,180000,symposiumhall3,AmericasEurope,Roundtable,16916558-aeb8-11eb-b724-1e00b921e125,
-Kidz Live Review - Spanish,Eduardo Garza-Villarreal,Diversity and Inclusivity Committee,20210624,170000,20210624,180000,symposiumhall4,AmericasEurope,Roundtable,16916cd8-aeb8-11eb-ab0b-1e00b921e125,
-Open Disucssions,,,20210624,170000,20210624,180000,loungetables,AmericasEurope,Roundtable,6e803b28-b207-11eb-9c9d-1e00b921e125,
-Glass Brain Interview,,,20210625,10000,20210625,20000,symposiumhall1,AmericasAsia,Roundtable,597d9b88-aeb4-11eb-819f-1e00b921e125,GjyKr8pqpRlRBE8I8wll
-OHBM Leadership Open House,,,20210625,10000,20210625,20000,symposiumhall2,AmericasAsia,Roundtable,597df81c-aeb4-11eb-82f5-1e00b921e125,k4acHOJOIe581589BVVd
-Open Disucssions,,,20210625,10000,20210625,20000,loungetables,AmericasAsia,Roundtable,6e804d5e-b207-11eb-a8b4-1e00b921e125,
-Exhibitors Hour,,,20210621,170000,20210621,180000,exhibithall,AmericasEurope,Exhibitors Hour,597e0064-aeb4-11eb-9a35-1e00b921e125,
-Exhibitors Hour,,,20210622,10000,20210622,20000,exhibithall,AmericasAsia,Exhibitors Hour,597e0886-aeb4-11eb-b6bc-1e00b921e125,
-Exhibitors Hour,,,20210622,170000,20210622,180000,exhibithall,AmericasEurope,Exhibitors Hour,597e109a-aeb4-11eb-abe5-1e00b921e125,
-Exhibitors Hour,,,20210623,10000,20210623,20000,exhibithall,AmericasAsia,Exhibitors Hour,597e18c6-aeb4-11eb-ae72-1e00b921e125,
-Exhibitors Hour,,,20210623,170000,20210623,180000,exhibithall,AmericasEurope,Exhibitors Hour,597e20e4-aeb4-11eb-a1ab-1e00b921e125,
-Exhibitors Hour,,,20210624,10000,20210624,20000,exhibithall,AmericasAsia,Exhibitors Hour,597e28f0-aeb4-11eb-a78e-1e00b921e125,
-Exhibitors Hour,,,20210624,170000,20210624,180000,exhibithall,AmericasEurope,Exhibitors Hour,597e312e-aeb4-11eb-aa32-1e00b921e125,
-Exhibitors Hour,,,20210625,10000,20210625,20000,exhibithall,AmericasAsia,Exhibitors Hour,597e3946-aeb4-11eb-a8ad-1e00b921e125,
-Fun with the SEA-SIG,,,20210623,190000,20210623,200000,loungetables,AmericasEurope,Social,597e4150-aeb4-11eb-8995-1e00b921e125,
-Fun with the SEA-SIG,,,20210624,30000,20210624,40000,loungetables,AmericasAsia,Social,597e497a-aeb4-11eb-a27d-1e00b921e125,
-Research Funding Roundtable,"Ken Whang, Almut Kelber, Paweł Świeboda, Marlène Bartes, John Ngai",Nicola Palomero-Gallagher,20210622,170000,20210622,180000,symposiumhall4,AmericasEurope,Roundtable,bebafe0c-b62b-11eb-b49f-1e00b921e125,
-Research Funding Roundtable,"Ken Whang, John Ngai, Tetsuya Matsuda",Hiromasa Takemura,20210625,10000,20210625,20000,symposiumhall3,AmericasAsia,Roundtable,bec47ed4-b62b-11eb-927d-1e00b921e125,
-The OHBM conference model post COVID: what should it look like?,,Sustainability and Environment Action SIG,20210624,170000,20210624,180000,mainauditorium,AmericasEurope,Roundtable,d7c74f4a-b99d-11eb-aef5-1e00b921e125,
-The OHBM conference model post COVID: what should it look like?,,Sustainability and Environment Action SIG,20210624,10000,20210624,20000,symposiumhall4,AmericasAsia,Roundtable,7d0d941a-b99d-11eb-a76c-1e00b921e125,
-Does your scanner give you consistent results?,,"Paul Weavers, VP Sales, Skope",20210623,170000,20210623,180000,boothskope,AmericasEurope,Exhibitors Hour,30097ee8-be2f-11eb-ab29-1e00b921e125,
-Does your scanner give you consistent results?,,"Paul Weavers, VP Sales, Skope",20210624,10000,20210624,20000,boothskope,AmericasAsia,Exhibitors Hour,300a9c8a-be2f-11eb-9412-1e00b921e125,
+Title,Speaker,Moderator,Description,Date Start,Time Start,Date End,Time End,Location,Room,TimeZoneBlock,Categories,UID,EVENTID
+Announcements,Aina Puce,,Glass Brain Award,20210621,140000,20210621,141000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Announcements,597d1fd2-aeb4-11eb-a4c9-1e00b921e125,d92ad2facca911eba836
+Combinatorial Creatures: Cortical Plasticity Within and Across Lifetimes,Leah Krubitzer,Simon Eickhoff,,20210621,141000,20210621,150000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Talairach Lecture,597643f6-aeb4-11eb-b5d4-1e00b921e125,d92bec0acca911eb916e
+Neuroanatomy for Neuroimagers: Bringing a systems-level perspective to neuroimaging analyses,"Sofie Valk, Casey Paquola, Maedbh King, Andreas Horn",Mac Shine,,20210621,151000,20210621,160000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Symposium,59772186-aeb4-11eb-8336-1e00b921e125,d92cfc30cca911eb868f
+Current frontiers in statistical inference for neuroimaging data,"Stephanie Noble, Jeannette Mumford, Jonathan Rosenblatt, Bertrand Thirion",Bertrand Thirion,,20210621,151000,20210621,160000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Symposium,59773568-aeb4-11eb-9f19-1e00b921e125,d92df8e2cca911eb985a
+"Neuromodulation of Disrupted Brain Networks: Mechanisms, Optimal Targeting, and Individual Treatment","Danny Wang, Yihong Yang, Colleen Hanlon, Wolf-Julian Neumann",Yihong Yang,,20210621,151000,20210621,160000,symposiumhall3,Symposium Hall 3,Africa/Americas/Europe,Symposium,59774922-aeb4-11eb-a52c-1e00b921e125,d92e701acca911ebb7f3
+All Hands on Deck: Patching the Leaky Academic Pipeline (SP SIG),"Lucina Uddin, Antentor Hinton, Angeline Dukes",,,20210621,151000,20210621,160000,symposiumhall4,Symposium Hall 4,Africa/Americas/Europe,Symposium,59775d0c-aeb4-11eb-b092-1e00b921e125,d92f2328cca911eba70b
+Software Demonstrations,Poster Presenters,,,20210621,160000,20210621,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597a78d8-aeb4-11eb-b53b-1e00b921e125,d92fe328cca911ebac49
+Disorders of the Nervous System - Neurodegenerative/Late Life,Poster Presenters,,,20210621,160000,20210621,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597a813a-aeb4-11eb-8752-1e00b921e125,d9309188cca911eb975d
+Brain Stimulation,Poster Presenters,,,20210621,160000,20210621,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597a88ee-aeb4-11eb-b38d-1e00b921e125,d9313b24cca911eb90de
+Learning and Memory,Poster Presenters,,,20210621,160000,20210621,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597ac658-aeb4-11eb-8e0a-1e00b921e125,d931ce86cca911ebb5b6
+Learning and Memory,TBD,,,20210621,160000,20210621,163000,posterhighlights1,Poster Highlights Room 1,Africa/Americas/Europe,Poster Highlights,5978fefa-aeb4-11eb-9b18-1e00b921e125,d9325a22cca911eb8576
+Software Demonstrations,TBD,,,20210621,160000,20210621,163000,posterhighlights2,Poster Highlights Room 2,Africa/Americas/Europe,Poster Highlights,5978d152-aeb4-11eb-a85f-1e00b921e125,d932e2d0cca911eb92d9
+Brain Stimulation,TBD,,,20210621,160000,20210621,163000,posterhighlights3,Poster Highlights Room 3,Africa/Americas/Europe,Poster Highlights,5978de74-aeb4-11eb-b80f-1e00b921e125,d9335feecca911eb9a92
+Disorders of the Nervous System - Neurodegenerative/Late Life,TBD,,,20210621,160000,20210621,163000,posterhighlights4,Poster Highlights Room 4,Africa/Americas/Europe,Poster Highlights,5978d7ec-aeb4-11eb-bc0d-1e00b921e125,d933d802cca911eb877e
+Let's talk: Best practices in fNIRS!,Dr. Maria Adelia de Aratanha,,,20210622,170000,20210622,180000,boothnirx,"NIRx Medical Technologies, LLC",Africa/Americas/Europe,Exhibitors Hour,ae3baa34-cca2-11eb-887e-1e00b921e125,d9344882cca911ebb8d2
+Exhibitors Hour,Exhibitors,,,20210621,170000,20210621,180000,exhibithall,Exhibit Hall,Africa/Americas/Europe,Exhibitors Hour,597e0064-aeb4-11eb-9a35-1e00b921e125,d934b3bacca911eb9a55
+Open Disucssions,Everyone,,,20210621,170000,20210621,180000,roundtables,Roundtables,Africa/Americas/Europe,Roundtable,6e7c81f6-b207-11eb-89cb-1e00b921e125,d9351a9ecca911eb9dcc
+"Transitioning from academia to industry: Why, when, how and where?",Bimal Lakhani,,Student and Postdoc SIG Workshop 1,20210621,170000,20210621,180000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Roundtable,597d72de-aeb4-11eb-9fb9-1e00b921e125,d93586d4cca911eb8474
+Glass Brain Interview,TBA,Aina Puce,,20210621,170000,20210621,180000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Roundtable,597d937a-aeb4-11eb-91bf-1e00b921e125,d935ebb0cca911ebb3ec
+"Neuroimaging best practices beyond open science: Ethics, collaborations and high quality research",Satra Ghosh,,Student and Postdoc SIG Workshop 2,20210621,170000,20210621,180000,symposiumhall3,Symposium Hall 3,Africa/Americas/Europe,Roundtable,1aa37e50-b283-11eb-b2e5-1e00b921e125,d9364a24cca911ebb11e
+Welcome reception,OHBM,,,20210621,180000,20210621,200000,loungetables,Social Lounge,Africa/Americas/Europe,Social,597cdea8-aeb4-11eb-9bbe-1e00b921e125,d936a3d4cca911ebaa41
+Announcements,Aina Puce,,Early Career Investigator Award,20210621,220000,20210621,221000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Announcements,597d306c-aeb4-11eb-aa0e-1e00b921e125,d936fde8cca911eb8d0e
+Combinatorial Creatures: Cortical Plasticity Within and Across Lifetimes,Leah Krubitzer,Daniel Margulies,,20210621,221000,20210621,230000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Talairach Lecture,5976bb2e-aeb4-11eb-99b6-1e00b921e125,d9375626cca911eba2f5
+Mapping cortical morphology in the human and non-human primate brain and relations to function,"Trisanna Sprung-Much, Celine Amiez, Olivier Coulon, Katja Heuer","Trisanna Sprung-Much, Nicole Eichert, Michael Petrides",,20210621,231000,20210622,0,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Symposium,59780006-aeb4-11eb-8ebf-1e00b921e125,d937b0e4cca911eb8c7f
+OHBM-DGKN Alliance: International Symposium on Network Reorganization after Stroke,"Christian Grefkes, Adrian Guggisberg, Steven Small, Nick Ward","Christian Grefkes, Steven Small",,20210621,231000,20210622,0,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Symposium,597806b4-aeb4-11eb-97b0-1e00b921e125,d93811cccca911eb878c
+Advances in functional neuroimaging of spontaneous thought,"Choong-Wan Woo, Adam Turnbull, Matthias Mittner, Aaron Kucyi","Aaron Kucyi, Julia Kam, Jonathan Smallwood",,20210621,231000,20210622,0,symposiumhall3,Symposium Hall 3,Americas/Asia/Australia,Symposium,59780d4c-aeb4-11eb-936e-1e00b921e125,d9386f34cca911eba84e
+Diversity Symposium: Racial Bias in Neuroscience,"Sharlene Newman, Sade Abiodun, Yakeel Quiroz","Rosanna Olsen, Amanpreet Badhwar, Lucina Uddin",,20210621,231000,20210622,0,symposiumhall4,Symposium Hall 4,Americas/Asia/Australia,Symposium,597813f4-aeb4-11eb-ae28-1e00b921e125,d938c83acca911ebb22c
+Language,Poster Presenters,,,20210622,0,20210622,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b3318-aeb4-11eb-bed1-1e00b921e125,d9392082cca911ebac35
+"Sleep, Consciousness, Pain",Poster Presenters,,,20210622,0,20210622,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b431a-aeb4-11eb-810c-1e00b921e125,d939788ccca911ebb7fb
+Modeling and Analysis - Connectivity,Poster Presenters,,,20210622,0,20210622,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b4d10-aeb4-11eb-a67e-1e00b921e125,d939d090cca911eb9168
+Disorders of the Nervous System - Neurodevelopmental/Early Life,Poster Presenters,,,20210622,0,20210622,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b5512-aeb4-11eb-a9a8-1e00b921e125,d93a296ecca911ebb1c2
+Language,TBD,,,20210622,0,20210622,3000,posterhighlights1,Poster Highlights Room 1,Americas/Asia/Australia,Poster Highlights,59794f38-aeb4-11eb-82bf-1e00b921e125,d93a817acca911ebb83f
+"Sleep, Consciousness, Pain",TBD,,,20210622,0,20210622,3000,posterhighlights2,Poster Highlights Room 2,Americas/Asia/Australia,Poster Highlights,597955d2-aeb4-11eb-b2a4-1e00b921e125,d93ad974cca911eb958b
+Modeling and Analysis - Connectivity,TBD,,,20210622,0,20210622,3000,posterhighlights3,Poster Highlights Room 3,Americas/Asia/Australia,Poster Highlights,59795c4c-aeb4-11eb-ab40-1e00b921e125,d93b3162cca911ebb8fd
+Disorders of the Nervous System - Neurodevelopmental/Early Life,TBD,,,20210622,0,20210622,3000,posterhighlights4,Poster Highlights Room 4,Americas/Asia/Australia,Poster Highlights,597962ca-aeb4-11eb-be57-1e00b921e125,d93b88fecca911eb9158
+Let's talk: Best practices in fNIRS!,Dr. Jeremy Burnison,,,20210622,10000,20210622,20000,boothnirx,"NIRx Medical Technologies, LLC",Americas/Asia/Australia,Exhibitors Hour,ae47b278-cca2-11eb-991a-1e00b921e125,d93be1c8cca911eb80ed
+Exhibitors Hour,Exhibitors,,,20210622,10000,20210622,20000,exhibithall,Exhibit Hall,Americas/Asia/Australia,Exhibitors Hour,597e0886-aeb4-11eb-b6bc-1e00b921e125,d93c39b6cca911eb8278
+Open Disucssions,Everyone,,,20210622,10000,20210622,20000,roundtables,Roundtables,Americas/Asia/Australia,Roundtable,6e7fae26-b207-11eb-bb8d-1e00b921e125,d93c91cccca911eb8009
+Getting the incentives right: Rethinking how we define academic success,Cooper Smout,,Student and Postdoc SIG Workshop 3,20210622,10000,20210622,20000,symposiumhall4,Symposium Hall 4,Americas/Asia/Australia,Roundtable,597d7af4-aeb4-11eb-a675-1e00b921e125,d93cea50cca911eb8634
+Diversity Roundtable,TBA,,,20210622,10000,20210622,20000,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Roundtable,597dc506-aeb4-11eb-aaf4-1e00b921e125,d93d42cacca911eb9de2
+Kidz Live Review - Korean,Soohyun Kim,"Hyang Woon Lee, Kangjoo Lee, Eunji Cho",Organized by the Diversity and Inclusivity Committee,20210622,10000,20210622,20000,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Roundtable,16914690-aeb8-11eb-b0bf-1e00b921e125,d93d9b4ccca911ebb7f7
+Navigating academic careers: What are our options and how can we reach our goals?,Mariam Aly,,Student and Postdoc SIG Workshop 4,20210622,10000,20210622,20000,symposiumhall3,Symposium Hall 3,Americas/Asia/Australia,Roundtable,1aa7456c-b283-11eb-8f8d-1e00b921e125,d93df364cca911eb9bea
+OHBM Leadership Open House,OHBM Council,Randy Gollub,,20210622,10000,20210622,20000,roundtables,Roundtables,Americas/Asia/Australia,Roundtable,597df81c-aeb4-11eb-82f5-1e00b921e125,d93e4b66cca911eb98d1
+Welcome reception,OHBM,,,20210622,20000,20210622,40000,loungetables,Social Lounge,Americas/Asia/Australia,Social,597ce6de-aeb4-11eb-8a8e-1e00b921e125,d93ea3c2cca911eb8a2a
+"Social Neuroscience, Emotion and Motivation",Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597be9f0-aeb4-11eb-9787-1e00b921e125,d93efc14cca911eb9e6f
+"Perception, Attention and Motor Behavior",Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597bf7c6-aeb4-11eb-bcf9-1e00b921e125,d93f5434cca911ebbdc3
+Language,Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c050c-aeb4-11eb-8a97-1e00b921e125,d93fac74cca911eb9972
+Modeling and Analysis - Activation,Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c136c-aeb4-11eb-93f5-1e00b921e125,d94004bacca911eba64e
+Neuroinformatics and Data Sharing,Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c1efa-aeb4-11eb-970a-1e00b921e125,d9405cdacca911eb8cdd
+Neuroanatomy,Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c274c-aeb4-11eb-954e-1e00b921e125,d940b57acca911ebafcd
+"Physiology, Metabolism and Neurotransmission",Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c3006-aeb4-11eb-b70b-1e00b921e125,d9410d9ccca911eb92e5
+Lifespan Development,Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c382e-aeb4-11eb-b147-1e00b921e125,d9416628cca911ebb762
+Disorders of the Nervous System - Psychiatric,Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c404c-aeb4-11eb-8cea-1e00b921e125,d941be06cca911ebb1a7
+Genetics,Poster Presenters,,,20210622,80000,20210622,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c4882-aeb4-11eb-921a-1e00b921e125,d942162ecca911eb8622
+"Social Neuroscience, Emotion and Motivation",TBD,,,20210622,80000,20210622,83000,posterhighlights1,Poster Highlights Room 1,Africa/Asia/Europe,Poster Highlights,5979daac-aeb4-11eb-9d14-1e00b921e125,d9426e80cca911ebbdcb
+Language,TBD,,,20210622,80000,20210622,83000,posterhighlights2,Poster Highlights Room 2,Africa/Asia/Europe,Poster Highlights,5979e90c-aeb4-11eb-9d02-1e00b921e125,d942c6dccca911eb9b43
+Neuroinformatics and Data Sharing,TBD,,,20210622,80000,20210622,83000,posterhighlights3,Poster Highlights Room 3,Africa/Asia/Europe,Poster Highlights,5979f74c-aeb4-11eb-9031-1e00b921e125,d9431edecca911ebae7a
+"Physiology, Metabolism and Neurotransmission",TBD,,,20210622,80000,20210622,83000,posterhighlights4,Poster Highlights Room 4,Africa/Asia/Europe,Poster Highlights,597a057a-aeb4-11eb-9960-1e00b921e125,d94376aecca911ebbb21
+Disorders of the Nervous System - Psychiatric,TBD,,,20210622,80000,20210622,83000,posterhighlights5,Poster Highlights Room 5,Africa/Asia/Europe,Poster Highlights,597a14ae-aeb4-11eb-a263-1e00b921e125,d943ceb0cca911eba6f9
+"Perception, Attention and Motor Behavior",TBD,,,20210622,90000,20210622,93000,posterhighlights1,Poster Highlights Room 1,Africa/Asia/Europe,Poster Highlights,5979e1be-aeb4-11eb-9d86-1e00b921e125,d9442888cca911eb81b2
+Modeling and Analysis - Activation,TBD,,,20210622,90000,20210622,93000,posterhighlights2,Poster Highlights Room 2,Africa/Asia/Europe,Poster Highlights,5979f01e-aeb4-11eb-a36e-1e00b921e125,d9448128cca911ebba65
+Neuroanatomy,TBD,,,20210622,90000,20210622,93000,posterhighlights3,Poster Highlights Room 3,Africa/Asia/Europe,Poster Highlights,5979fe42-aeb4-11eb-a44c-1e00b921e125,d944da08cca911eb8139
+Lifespan Development,TBD,,,20210622,90000,20210622,93000,posterhighlights4,Poster Highlights Room 4,Africa/Asia/Europe,Poster Highlights,597a0d10-aeb4-11eb-9235-1e00b921e125,d945325acca911ebb786
+Genetics,TBD,,,20210622,90000,20210622,93000,posterhighlights5,Poster Highlights Room 5,Africa/Asia/Europe,Poster Highlights,597a1da8-aeb4-11eb-b12a-1e00b921e125,d9458b9ccca911eb916e
+Diagnostic Confidence in Neuro with Speed and Precision,Philips,,,20210622,130000,20210622,140000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Sponsored Symposium,597cbd76-aeb4-11eb-9b54-1e00b921e125,d945e418cca911eb81e6
+Announcements,Aina Puce,,Open Science Award Presenter: Janine Bijsterbosch\n  Education in Neuroimaging Award Presenter: Randy Gollub,20210622,140000,20210622,141000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Announcements,597d40f4-aeb4-11eb-b4d2-1e00b921e125,d9463da8cca911ebb07f
+INS-fMRI: a method for mapping mesoscale connectomes in nonhuman primates,Anna Wang Roe,Randy Gollub,,20210622,141000,20210622,150000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Keynote,597663a4-aeb4-11eb-b254-1e00b921e125,d9469654cca911eb9ecb
+"Imaging the Brainstem: Approaches, Challenges and Opportunities","Ruud Lucas van den Brink, Jan Willem de Gee, David Clewett, Heidi Jacobs, Veronica M�ki-Marttunen","Veronica M�ki-Marttunen, Beth Lloyd",,20210622,151000,20210622,160000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Symposium,59781ad2-aeb4-11eb-973c-1e00b921e125,d946ef9ecca911eba639
+Learning from high-dimensional neuroimaging data,"Jae-Joong Lee, Qunfang Long, Robyn Miller, Jing Sui","Vince Calhoun, Jing Sui",,20210622,151000,20210622,160000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Symposium,597821a8-aeb4-11eb-ad15-1e00b921e125,d947484ccca911ebacc1
+Addressing the Social Limitations in Open Science,"Matteo Mancini, Johanna Bayer, Melvin Selim Atay, Katie Bottenhorn, Aki Nikolaidis, Sofie Valk","Aki Nikolaidis, Gabriel Gonzalez",,20210622,151000,20210622,160000,symposiumhall3,Symposium Hall 3,Africa/Americas/Europe,Symposium,59782874-aeb4-11eb-93c3-1e00b921e125,d947a15ccca911eb9981
+PET Imaging of Brain Connectivity: Hype or Future?,"Aldana Lizarraga, Silvia Caminiti, Andreas Hahn, Joana Pereira","Arianna Sala, Igor Yakushev",,20210622,151000,20210622,160000,symposiumhall4,Symposium Hall 4,Africa/Americas/Europe,Symposium,59782f40-aeb4-11eb-9db6-1e00b921e125,d947f9aecca911eb9548
+Higher Cognitive Functions,Poster Presenters,,,20210622,160000,20210622,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597a90d2-aeb4-11eb-a40e-1e00b921e125,d948521ecca911eb8b6c
+"Sleep, Consciousness, Pain",Poster Presenters,,,20210622,160000,20210622,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597a9852-aeb4-11eb-a6df-1e00b921e125,d948aaaccca911ebb841
+Modeling and Analysis - Multivariate Approaches,Poster Presenters,,,20210622,160000,20210622,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597aa734-aeb4-11eb-8ce0-1e00b921e125,d949031ccca911eb924c
+Disorders of the Nervous System - Neurodevelopmental/Early Life,Poster Presenters,,,20210622,160000,20210622,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597ab698-aeb4-11eb-b977-1e00b921e125,d9495c22cca911eb93c6
+Higher Cognitive Functions,TBD,,,20210622,160000,20210622,163000,posterhighlights1,Poster Highlights Room 1,Africa/Americas/Europe,Poster Highlights,5978e4d0-aeb4-11eb-8a89-1e00b921e125,d949b47ecca911eb9937
+"Sleep, Consciousness, Pain",TBD,,,20210622,160000,20210622,163000,posterhighlights4,Poster Highlights Room 4,Africa/Americas/Europe,Poster Highlights,5978eb2e-aeb4-11eb-b511-1e00b921e125,d94a0ce4cca911ebaed0
+Modeling and Analysis - Multivariate Approaches,TBD,,,20210622,160000,20210622,163000,posterhighlights3,Poster Highlights Room 3,Africa/Americas/Europe,Poster Highlights,5978f1a8-aeb4-11eb-ae6f-1e00b921e125,d94a64f0cca911eb9996
+Disorders of the Nervous System - Neurodevelopmental/Early Life,TBD,,,20210622,160000,20210622,163000,posterhighlights2,Poster Highlights Room 2,Africa/Americas/Europe,Poster Highlights,5978f862-aeb4-11eb-aa04-1e00b921e125,d94abd7ecca911ebb9b8
+fNIRS - do I need short channels and what do I gain from adding physiology?,Dr. Mahipal Choudhary,,,20210623,170000,20210623,180000,boothnirx,"NIRx Medical Technologies, LLC",Africa/Americas/Europe,Exhibitors Hour,ae5866e2-cca2-11eb-8002-1e00b921e125,d94b15eecca911ebabc3
+Exhibitors Hour,Exhibitors,,,20210622,170000,20210622,180000,exhibithall,Exhibit Hall,Africa/Americas/Europe,Exhibitors Hour,597e109a-aeb4-11eb-abe5-1e00b921e125,d94b6e4acca911eba93a
+Open Disucssions,Everyone,,,20210622,170000,20210622,180000,roundtables,Roundtables,Africa/Americas/Europe,Roundtable,6e7fc794-b207-11eb-8cf5-1e00b921e125,d94bc6b0cca911eb93cf
+Faliure Five Ways Roundtable,TBA,,,20210622,170000,20210622,180000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Roundtable,597da3e4-aeb4-11eb-8c20-1e00b921e125,d94c1f86cca911ebae75
+Research Funding Roundtable,"Ken Whang, Almut Kelber, Paweł Świeboda, Marlène Bartes, John Ngai",Nicola Palomero-Gallagher,,20210622,170000,20210622,180000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Roundtable,bebafe0c-b62b-11eb-b49f-1e00b921e125,d94c783acca911ebb798
+Student/Postdoc SIG Party,Student/Postdoc Special-Interest-Group,,,20210622,180000,20210622,200000,loungetables,Social Lounge,Africa/Americas/Europe,Social,597cff3e-aeb4-11eb-9327-1e00b921e125,d94cd0becca911eb993b
+Diagnostic Confidence in Neuro with Speed and Precision,Philips,,,20210622,210000,20210622,220000,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Sponsored Symposium,597cc5e6-aeb4-11eb-9390-1e00b921e125,d94d29a6cca911eb967d
+Announcements,Aina Puce,,Mentor Award Presenter: Carolina Makowski\n  Diversity & Inclusivity Champion Award Presenter: Jessica Damoiseaux\n  Replication Award Presenter: David Kennedy,20210622,220000,20210622,221000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Announcements,597d59f4-aeb4-11eb-ae30-1e00b921e125,d94d8248cca911eb8a3f
+Integrating mesoscale human brain measurements in the human visual pathways,Dora Hermes,Sepideh Sadaghiani,,20210622,221000,20210622,230000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Keynote,5976e478-aeb4-11eb-854f-1e00b921e125,d94ddb4ccca911eba1b0
+From bench to bed-side: Quantifying brain microstructure using multi-parameter MRI,"Kathryn Keenan, Christophe Phillips, Susie Huang, Christia Lambert","Bogdan Draganski, Nikola Stikov",,20210622,231000,20210623,0,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Symposium,59789066-aeb4-11eb-80aa-1e00b921e125,d94e33facca911eb88e6
+Identifying and reducing model bias in network neuroscience,"Manjari Narayan, Andrew Reid, Alexandros Goulas, Mikail Rubinov","Mikail Rubinov, Lucina Uddin",,20210622,231000,20210623,0,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Symposium,597876e4-aeb4-11eb-a076-1e00b921e125,d94e8cd8cca911eb92b4
+Simultaneous MRI-PET imaging: recent developments and future directions,"Sharna Jamadar, Andreas Hahn, Christin Sander, N. Jon Shah","Sharna Jamadar, Gary Egan",,20210622,231000,20210623,0,symposiumhall3,Symposium Hall 3,Americas/Asia/Australia,Symposium,59787d42-aeb4-11eb-b9e1-1e00b921e125,d94ee5e8cca911eba6ae
+Stress sensitivity as a predictor of long-term vulnerability versus stress resilience,"Florin Dolcos, Indira Tendolkar, Shaozheng Quin, Fleur Duyser",Indira Tendolkar,,20210622,231000,20210623,0,symposiumhall4,Symposium Hall 4,Americas/Asia/Australia,Symposium,59788398-aeb4-11eb-83c8-1e00b921e125,d94f3e9ecca911eb8e21
+How can scientists respond to the climate emergency? A guide from the SEA SIG,"Charlotte Rae, Anne Urai, Adam Aron, Clare Kelly",Charlotte Rae,,20210622,231000,20210623,0,mainauditorium,Main Auditorium,Americas/Asia/Australia,Symposium,597889fe-aeb4-11eb-8c53-1e00b921e125,d94f9774cca911ebb719
+Learning and Memory,Poster Presenters,,,20210623,0,20210623,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b5de6-aeb4-11eb-bfc4-1e00b921e125,d94ff69acca911eba3ee
+Software Demonstrations,Poster Presenters,,,20210623,0,20210623,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b6598-aeb4-11eb-8b3f-1e00b921e125,d9505b30cca911eb8b8b
+Disorders of the Nervous System - Neurodegenerative/Late Life,Poster Presenters,,,20210623,0,20210623,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b6d4a-aeb4-11eb-b6de-1e00b921e125,d950be4acca911eb9d4a
+Novel Imaging Acquisition Methods,Poster Presenters,,,20210623,0,20210623,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b74de-aeb4-11eb-884a-1e00b921e125,d9511b74cca911ebbba8
+Learning and Memory,TBD,,,20210623,0,20210623,3000,posterhighlights1,Poster Highlights Room 1,Americas/Asia/Australia,Poster Highlights,5979696e-aeb4-11eb-8859-1e00b921e125,d95176e6cca911eb8210
+Software Demonstrations,TBD,,,20210623,0,20210623,3000,posterhighlights2,Poster Highlights Room 2,Americas/Asia/Australia,Poster Highlights,59797062-aeb4-11eb-a028-1e00b921e125,d951d276cca911ebbc51
+Disorders of the Nervous System - Neurodegenerative/Late Life,TBD,,,20210623,0,20210623,3000,posterhighlights3,Poster Highlights Room 3,Americas/Asia/Australia,Poster Highlights,59797768-aeb4-11eb-ae4a-1e00b921e125,d9522dc0cca911ebbf80
+Novel Imaging Acquisition Methods,TBD,,,20210623,0,20210623,3000,posterhighlights4,Poster Highlights Room 4,Americas/Asia/Australia,Poster Highlights,59797e68-aeb4-11eb-8e55-1e00b921e125,d95288bacca911ebb062
+fNIRS - do I need short channels and what do I gain from adding physiology?,Dr. Jeremy Burnison,,,20210623,10000,20210623,20000,boothnirx,"NIRx Medical Technologies, LLC",Americas/Asia/Australia,Exhibitors Hour,ae60d4a6-cca2-11eb-a094-1e00b921e125,d952e36ecca911eb9c3b
+Exhibitors Hour,Exhibitors,Student/Postdoc Special-Interest-Group,,20210623,10000,20210623,20000,exhibithall,Exhibit Hall,Americas/Asia/Australia,Exhibitors Hour,597e18c6-aeb4-11eb-ae72-1e00b921e125,d9533e5ecca911ebb895
+Open Disucssions,Everyone,,,20210623,10000,20210623,20000,roundtables,Roundtables,Americas/Asia/Australia,Roundtable,6e7ff264-b207-11eb-8fb3-1e00b921e125,d9539adecca911eb96aa
+Open Science and Publishing,TBD,Peter Bandettini & JB Poline,Organized by Aperture and the Open Science SIG,20210623,10000,20210623,20000,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Roundtable,597dd762-aeb4-11eb-9e63-1e00b921e125,d953f650cca911ebaa7a
+Chinese Young Scholars,"Ying Han, Jiang Qiu, Sha Tao, Chao-Gan Yan, Chun-Shui Yu, Yu-Feng Zang, Zhan-Jun Zhang, Xi-Nian Zuo",Chao-Gan Yan,,20210623,10000,20210623,20000,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Roundtable,597db488-aeb4-11eb-82e0-1e00b921e125,d9545186cca911eba945
+Student/Postdoc SIG Party,Student/Postdoc Special-Interest-Group,,,20210623,20000,20210623,40000,loungetables,Social Lounge,Americas/Asia/Australia,Social,597d077a-aeb4-11eb-86fd-1e00b921e125,d954acb4cca911eba3bd
+Announcements,Aina Puce,,Early Career Investigator Award\n  Fellows,20210623,140000,20210623,141000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Announcements,597d38be-aeb4-11eb-b729-1e00b921e125,d9550858cca911eba947
+Neurodevelopment of the Association Cortices: Normative Patterns and Implications for Psychopathology,Ted Satterthwaite,Mallar Chakravarty,,20210623,141000,20210623,150000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Keynote,59768e62-aeb4-11eb-9898-1e00b921e125,d9556724cca911eb8fa1
+"Communication in brain networks: models, mechanisms, and applications",TBA,TBA,,20210623,151000,20210623,160000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Symposium,59789692-aeb4-11eb-9f9e-1e00b921e125,d955c200cca911eb995e
+Innovations in Multimodal Data Fusion and Data-Driven Discovery in Population Neuroimaging,TBA,TBA,,20210623,151000,20210623,160000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Symposium,59789cd2-aeb4-11eb-8780-1e00b921e125,d9561bf6cca911ebbf62
+Emerging research in infant neuroimaging: a Fit'ng overview,TBA,TBA,,20210623,151000,20210623,160000,symposiumhall3,Symposium Hall 3,Africa/Americas/Europe,Symposium,5978a312-aeb4-11eb-89a6-1e00b921e125,d95674e8cca911eba18b
+Spatio-temporal brain dynamics across consciousness levels in clinical and healthy populations,TBA,TBA,,20210623,151000,20210623,160000,symposiumhall4,Symposium Hall 4,Africa/Americas/Europe,Symposium,5978a9a2-aeb4-11eb-a218-1e00b921e125,d956ce52cca911ebbc1e
+"Social Neuroscience, Emotion and Motivation",Poster Presenters,,,20210623,160000,20210623,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597a7158-aeb4-11eb-80ef-1e00b921e125,d9572712cca911ebb4e4
+Neuroinformatics and Data Sharing,Poster Presenters,,,20210623,160000,20210623,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597ad5b0-aeb4-11eb-904d-1e00b921e125,d9577fb4cca911eb8e4f
+Disorders of the Nervous System - Psychiatric,Poster Presenters,,,20210623,160000,20210623,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597ae4ec-aeb4-11eb-bb0f-1e00b921e125,d957d900cca911eb88d8
+Neuroanatomy,Poster Presenters,,,20210623,160000,20210623,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597aeeba-aeb4-11eb-b231-1e00b921e125,d95831f4cca911ebb1e5
+"Social Neuroscience, Emotion and Motivation",TBD,,,20210623,160000,20210623,163000,posterhighlights1,Poster Highlights Room 1,Africa/Americas/Europe,Poster Highlights,5978ca90-aeb4-11eb-bd0e-1e00b921e125,d9588adacca911eba8ef
+Neuroinformatics and Data Sharing,TBD,,,20210623,160000,20210623,163000,posterhighlights2,Poster Highlights Room 2,Africa/Americas/Europe,Poster Highlights,59790598-aeb4-11eb-a793-1e00b921e125,d958e39acca911ebae96
+Disorders of the Nervous System - Psychiatric,TBD,,,20210623,160000,20210623,163000,posterhighlights3,Poster Highlights Room 3,Africa/Americas/Europe,Poster Highlights,59790be2-aeb4-11eb-90cf-1e00b921e125,d9593c28cca911ebb3b5
+Neuroanatomy,TBD,,,20210623,160000,20210623,163000,posterhighlights4,Poster Highlights Room 4,Africa/Americas/Europe,Poster Highlights,5979123e-aeb4-11eb-b78c-1e00b921e125,d95994accca911ebab03
+Does your scanner give you consistent results?,"Paul Weavers, VP Sales, Skope",,,20210623,170000,20210623,180000,boothskope,Skope Booth,Africa/Americas/Europe,Exhibitors Hour,30097ee8-be2f-11eb-ab29-1e00b921e125,d959ed80cca911ebba7c
+Exhibitors Hour,Exhibitors,,,20210623,170000,20210623,180000,exhibithall,Exhibit Hall,Africa/Americas/Europe,Exhibitors Hour,597e20e4-aeb4-11eb-a1ab-1e00b921e125,d95a462ccca911eb803e
+OHBM Leadership Open House,OHBM Council,Randy Gollub,,20210623,170000,20210623,180000,roundtables,Roundtables,Africa/Americas/Europe,Roundtable,597deffa-aeb4-11eb-b619-1e00b921e125,d95a9e9ccca911ebb630
+Open Disucssions,Everyone,,,20210623,170000,20210623,180000,roundtables,Roundtables,Africa/Americas/Europe,Roundtable,6e800b78-b207-11eb-9536-1e00b921e125,d95af7c0cca911eb84f9
+Kidz Live Review - French,Ana�s Llorens,"Athina Tzovara, Deborah Marciano, Ludovic Bellier",Organized by the Diversity and Inclusivity Committee,20210623,170000,20210623,180000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Roundtable,16915da6-aeb8-11eb-9a5e-1e00b921e125,d95b511ecca911eb801f
+Kidz Live Review - Italian,Antea D'Andrea�,"Valentina Borghesani, Giulia Baracchini, Laura Marzetti",Organized by the Diversity and Inclusivity Committee,20210623,170000,20210623,180000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Roundtable,1691548c-aeb8-11eb-aa00-1e00b921e125,d95baa6ccca911eb9a95
+Navigating academic careers: What are our options and how can we reach our goals?,Mariam Aly,,Student and Postdoc SIG Workshop 4,20210623,170000,20210623,180000,symposiumhall3,Symposium Hall 3,Africa/Americas/Europe,Roundtable,597d8328-aeb4-11eb-98fd-1e00b921e125,d95c04d0cca911eb9440
+Getting the incentives right: Rethinking how we define academic success,Cooper Smout,,Student and Postdoc SIG Workshop 3,20210623,170000,20210623,180000,symposiumhall4,Symposium Hall 4,Africa/Americas/Europe,Roundtable,1aa79792-b283-11eb-a6d3-1e00b921e125,d95c5d9acca911ebae3e
+Precision Estimates of Structure and Function Within the Individual & INS-fMRI: A Method for Mapping Mesoscale Connectomes in Nonhuman Primates,Siemens,,,20210623,180000,20210623,190000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Sponsored Symposium,597cce2e-aeb4-11eb-8468-1e00b921e125,d95cb628cca911ebb88e
+Fun with the SEA-SIG,Sustainability and Environmental Action SIG,,,20210623,190000,20210623,200000,loungetables,Social Lounge,Africa/Americas/Europe,Social,597e4150-aeb4-11eb-8995-1e00b921e125,d95d0ecacca911ebb6b8
+Announcements,Aina Puce,"Open Science Award, Education in Neuroimaging Award",,20210623,220000,20210623,221000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Announcements,597d494c-aeb4-11eb-99fb-1e00b921e125,d95d6780cca911eb89f5
+Characterizing Brain Microstructure Using Magnetic Resonance Imaging: Towards In-Vivo Histology,Nikolaus Weiskopf,Aman Badhwar,,20210623,221000,20210623,230000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Keynote,59770d68-aeb4-11eb-aa40-1e00b921e125,d95dc00ccca911ebb580
+Neuroanatomy for Neuroimagers: Bringing a systems-level perspective to neuroimaging analyses,"Sofie Valk, Casey Paquola, Maedbh King, Andreas Horn",Mac Shine,,20210623,231000,20210624,0,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Symposium,5977729e-aeb4-11eb-b74d-1e00b921e125,d95e18f6cca911eb8e2e
+Current frontiers in statistical inference for neuroimaging data,"Stephanie Noble, Jeannette Mumford, Jonathan Rosenblatt, Bertrand Thirion",Bertrand Thirion,,20210623,231000,20210624,0,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Symposium,597788cc-aeb4-11eb-a9ea-1e00b921e125,d95e7206cca911ebb90c
+"Neuromodulation of Disrupted Brain Networks: Mechanisms, Optimal Targeting, and Individual Treatment","Danny Wang, Yihong Yang, Colleen Hanlon, Wolf-Julian Neumann",Yihong Yang,,20210623,231000,20210624,0,symposiumhall3,Symposium Hall 3,Americas/Asia/Australia,Symposium,59779d6e-aeb4-11eb-9c61-1e00b921e125,d95ecac6cca911ebbacf
+All Hands on Deck: Patching the Leaky Academic Pipeline (SP SIG),"Lucina Uddin, Antentor Hinton, Angeline Dukes",,,20210623,231000,20210624,0,symposiumhall4,Symposium Hall 4,Americas/Asia/Australia,Symposium,5977b18c-aeb4-11eb-b6d8-1e00b921e125,d95f235ecca911eb9986
+"Perception, Attention and Motor Behavior",Poster Presenters,,,20210624,0,20210624,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b7c54-aeb4-11eb-b3f2-1e00b921e125,d95f7ba6cca911eb8b51
+Modeling and Analysis - Multivariate Approaches,Poster Presenters,,,20210624,0,20210624,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b8462-aeb4-11eb-a38b-1e00b921e125,d95fd3e4cca911eb89cf
+Lifespan Development,Poster Presenters,,,20210624,0,20210624,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b8cc6-aeb4-11eb-af38-1e00b921e125,d9602c90cca911eb8bc9
+Genetics,Poster Presenters,,,20210624,0,20210624,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b9506-aeb4-11eb-a418-1e00b921e125,d9608514cca911ebbcfa
+"Perception, Attention and Motor Behavior",TBD,,,20210624,0,20210624,3000,posterhighlights1,Poster Highlights Room 1,Americas/Asia/Australia,Poster Highlights,59798586-aeb4-11eb-a6c4-1e00b921e125,d960de4ccca911ebbccd
+Modeling and Analysis - Multivariate Approaches,TBD,,,20210624,0,20210624,3000,posterhighlights2,Poster Highlights Room 2,Americas/Asia/Australia,Poster Highlights,59798c82-aeb4-11eb-987b-1e00b921e125,d961371ecca911eba5d9
+Lifespan Development,TBD,,,20210624,0,20210624,3000,posterhighlights3,Poster Highlights Room 3,Americas/Asia/Australia,Poster Highlights,597993d0-aeb4-11eb-82b4-1e00b921e125,d9618fe8cca911eb960e
+Genetics,TBD,,,20210624,0,20210624,3000,posterhighlights4,Poster Highlights Room 4,Americas/Asia/Australia,Poster Highlights,59799acc-aeb4-11eb-98fb-1e00b921e125,d961e898cca911ebbbd4
+Does your scanner give you consistent results?,"Paul Weavers, VP Sales, Skope",,,20210624,10000,20210624,20000,boothskope,Skope Booth,Americas/Asia/Australia,Exhibitors Hour,300a9c8a-be2f-11eb-9412-1e00b921e125,d9624124cca911eb8347
+Exhibitors Hour,Exhibitors,,,20210624,10000,20210624,20000,exhibithall,Exhibit Hall,Americas/Asia/Australia,Exhibitors Hour,597e28f0-aeb4-11eb-a78e-1e00b921e125,d96299d0cca911ebaa71
+Open Disucssions,Everyone,,,20210624,10000,20210624,20000,roundtables,Roundtables,Americas/Asia/Australia,Roundtable,6e801d5c-b207-11eb-b1a9-1e00b921e125,d962f2cccca911eb958d
+"Transitioning from academia to industry: Why, when, how and where?",Bimal Lakhani,,Student and Postdoc SIG Workshop 1,20210624,10000,20210624,20000,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Roundtable,597d8b70-aeb4-11eb-b622-1e00b921e125,d9634b98cca911ebad46
+Faliure Five Ways Roundtable,TBA,,,20210624,10000,20210624,20000,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Roundtable,597dac54-aeb4-11eb-ae61-1e00b921e125,d963a442cca911ebbc14
+"Neuroimaging best practices beyond open science: Ethics, collaborations and high quality research",Satra Ghosh,,Student and Postdoc SIG Workshop 2,20210624,10000,20210624,20000,symposiumhall3,Symposium Hall 3,Americas/Asia/Australia,Roundtable,1aa7b062-b283-11eb-9c93-1e00b921e125,d963fd34cca911ebb750
+What should a sustainable post-Covid annual meeting look like?,Sustainability and Environment Action SIG,,,20210624,10000,20210624,20000,symposiumhall4,Symposium Hall 4,Americas/Asia/Australia,Roundtable,7d0d941a-b99d-11eb-a76c-1e00b921e125,d96455c2cca911eb989d
+Precision Estimates of Structure and Function Within the Individual & INS-fMRI: A Method for Mapping Mesoscale Connectomes in Nonhuman Primates,Siemens,,,20210624,20000,20210624,30000,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Sponsored Symposium,597cd63a-aeb4-11eb-a4ff-1e00b921e125,d964aedccca911ebb327
+Fun with the SEA-SIG,Sustainability and Environmental Action SIG,,,20210624,30000,20210624,40000,loungetables,Social Lounge,Americas/Asia/Australia,Social,597e497a-aeb4-11eb-a27d-1e00b921e125,d965079ccca911ebbf94
+Higher Cognitive Functions,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c50de-aeb4-11eb-b9be-1e00b921e125,d9656162cca911eb9198
+Learning and Memory,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c5976-aeb4-11eb-bc90-1e00b921e125,d965ba8ccca911eb9ecf
+"Sleep, Consciousness, Pain",Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c618c-aeb4-11eb-b7e1-1e00b921e125,d9661380cca911eb93c3
+Modeling and Analysis - Multivariate Approaches,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c6a9c-aeb4-11eb-bde5-1e00b921e125,d9666c68cca911ebbdce
+Modeling and Analysis - Connectivity,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c7794-aeb4-11eb-8e46-1e00b921e125,d966c564cca911eba22d
+Software Demonstrations,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c8574-aeb4-11eb-8a4c-1e00b921e125,d9671e24cca911eba0e1
+Disorders of the Nervous System - Neurodevelopmental/Early Life,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597c92f6-aeb4-11eb-ae62-1e00b921e125,d967773ecca911ebabcc
+Disorders of the Nervous System - Neurodegenerative/Late Life,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597ca098-aeb4-11eb-9a0a-1e00b921e125,d967d210cca911eb9087
+Novel Imaging Acquisition Methods,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597cac9e-aeb4-11eb-9086-1e00b921e125,d9682b86cca911ebbcba
+Brain Stimulation,Poster Presenters,,,20210624,80000,20210624,100000,posterhall,Poster Hall,Africa/Asia/Europe,Posters,597cb4e8-aeb4-11eb-84cd-1e00b921e125,d96884b4cca911eb93ac
+Higher Cognitive Functions,TBD,,,20210624,80000,20210624,83000,posterhighlights1,Poster Highlights Room 1,Africa/Asia/Europe,Poster Highlights,597a2548-aeb4-11eb-b1c2-1e00b921e125,d968ddb8cca911eba130
+"Sleep, Consciousness, Pain",TBD,,,20210624,80000,20210624,83000,posterhighlights2,Poster Highlights Room 2,Africa/Asia/Europe,Poster Highlights,597a34a2-aeb4-11eb-a9e5-1e00b921e125,d96936d2cca911eba29d
+Modeling and Analysis - Connectivity,TBD,,,20210624,80000,20210624,83000,posterhighlights3,Poster Highlights Room 3,Africa/Asia/Europe,Poster Highlights,597a43e8-aeb4-11eb-84c0-1e00b921e125,d9698fb0cca911eba6bf
+Disorders of the Nervous System - Neurodevelopmental/Early Life,TBD,,,20210624,80000,20210624,83000,posterhighlights4,Poster Highlights Room 4,Africa/Asia/Europe,Poster Highlights,597a5324-aeb4-11eb-9cbe-1e00b921e125,d969e8a2cca911eba2b2
+Novel Imaging Acquisition Methods,TBD,,,20210624,80000,20210624,83000,posterhighlights5,Poster Highlights Room 5,Africa/Asia/Europe,Poster Highlights,597a6262-aeb4-11eb-9845-1e00b921e125,d96a419ecca911eba4bd
+Learning and Memory,TBD,,,20210624,90000,20210624,93000,posterhighlights1,Poster Highlights Room 1,Africa/Asia/Europe,Poster Highlights,597a2d06-aeb4-11eb-bc74-1e00b921e125,d96a9a86cca911ebab4e
+Modeling and Analysis - Multivariate Approaches,TBD,,,20210624,90000,20210624,93000,posterhighlights2,Poster Highlights Room 2,Africa/Asia/Europe,Poster Highlights,597a3c40-aeb4-11eb-a1b1-1e00b921e125,d96af398cca911eb8ba7
+Software Demonstrations,TBD,,,20210624,90000,20210624,93000,posterhighlights3,Poster Highlights Room 3,Africa/Asia/Europe,Poster Highlights,597a4b7a-aeb4-11eb-96e2-1e00b921e125,d96b4c68cca911ebb7d0
+Disorders of the Nervous System - Neurodegenerative/Late Life,TBD,,,20210624,90000,20210624,93000,posterhighlights4,Poster Highlights Room 4,Africa/Asia/Europe,Poster Highlights,597a5aa4-aeb4-11eb-910c-1e00b921e125,d96ba566cca911eba827
+Brain Stimulation,TBD,,,20210624,90000,20210624,93000,posterhighlights5,Poster Highlights Room 5,Africa/Asia/Europe,Poster Highlights,597a69e2-aeb4-11eb-82a8-1e00b921e125,d96bfe4ccca911ebbccd
+Announcements,Aina Puce,"Mentor Award, Diversity Award, Replication Award",,20210624,140000,20210624,141000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Announcements,597d51a8-aeb4-11eb-b582-1e00b921e125,d96c5786cca911eba317
+Integrating mesoscale human brain measurements in the human visual pathways,Dora Hermes,Aina Puce,,20210624,141000,20210624,150000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Keynote,59767952-aeb4-11eb-9315-1e00b921e125,d96cb05acca911eb880d
+Mapping cortical morphology in the human and non-human primate brain and relations to function,"Trisanna Sprung-Much, Celine Amiez, Olivier Coulon, Katja Heuer","Trisanna Sprung-Much, Nicole Eichert, Michael Petrides",,20210624,151000,20210624,160000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Symposium,5977c7da-aeb4-11eb-8f85-1e00b921e125,d96d0988cca911ebac3b
+OHBM-DGKN Alliance: International Symposium on Network Reorganization after Stroke,"Christian Grefkes, Adrian Guggisberg, Steven Small, Nick Ward","Christian Grefkes, Steven Small",,20210624,151000,20210624,160000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Symposium,5977dee6-aeb4-11eb-8f4a-1e00b921e125,d96d62accca911ebbede
+Advances in functional neuroimaging of spontaneous thought,"Choong-Wan Woo, Adam Turnbull, Matthias Mittner, Aaron Kucyi","Aaron Kucyi, Julia Kam, Jonathan Smallwood",,20210624,151000,20210624,160000,symposiumhall3,Symposium Hall 3,Africa/Americas/Europe,Symposium,5977f070-aeb4-11eb-bcad-1e00b921e125,d96dbc28cca911eb8a91
+Diversity Symposium: Racial Bias in Neuroscience,"Sharlene Newman, Sade Abiodun, Yakeel Quiroz","Rosanna Olsen, Amanpreet Badhwar, Lucina Uddin",,20210624,151000,20210624,160000,symposiumhall4,Symposium Hall 4,Africa/Americas/Europe,Symposium,5977f8fe-aeb4-11eb-880d-1e00b921e125,d96e1594cca911ebab0f
+Language,Poster Presenters,,,20210624,160000,20210624,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597af646-aeb4-11eb-ba4c-1e00b921e125,d96e6e90cca911eba2c9
+Modeling and Analysis - Activation,Poster Presenters,,,20210624,160000,20210624,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597afdc6-aeb4-11eb-a4fd-1e00b921e125,d96ec764cca911ebb180
+Lifespan Development,Poster Presenters,,,20210624,160000,20210624,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597b0562-aeb4-11eb-8119-1e00b921e125,d96f20a6cca911eb8bfd
+Genetics,Poster Presenters,,,20210624,160000,20210624,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597b0d0a-aeb4-11eb-9b4c-1e00b921e125,d96f7b50cca911eba5e4
+Language,TBD,,,20210624,160000,20210624,163000,posterhighlights1,Poster Highlights Room 1,Africa/Americas/Europe,Poster Highlights,597918ba-aeb4-11eb-99e0-1e00b921e125,d96fd4cccca911ebbe05
+Modeling and Analysis - Activation,TBD,,,20210624,160000,20210624,163000,posterhighlights2,Poster Highlights Room 2,Africa/Americas/Europe,Poster Highlights,59791f36-aeb4-11eb-ad4a-1e00b921e125,d9702e38cca911ebb3c6
+Lifespan Development,TBD,,,20210624,160000,20210624,163000,posterhighlights3,Poster Highlights Room 3,Africa/Americas/Europe,Poster Highlights,5979272e-aeb4-11eb-a712-1e00b921e125,d97087accca911eb95b1
+Genetics,TBD,,,20210624,160000,20210624,163000,posterhighlights4,Poster Highlights Room 4,Africa/Americas/Europe,Poster Highlights,59792ddc-aeb4-11eb-a9b4-1e00b921e125,d970e1facca911eb8756
+Exhibitors Hour,Exhibitors,,,20210624,170000,20210624,180000,exhibithall,Exhibit Hall,Africa/Americas/Europe,Exhibitors Hour,597e312e-aeb4-11eb-aa32-1e00b921e125,d9713b86cca911eba98f
+What should a sustainable post-Covid annual meeting look like?,Sustainability and Environment Action SIG,,,20210624,170000,20210624,180000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Roundtable,d7c74f4a-b99d-11eb-aef5-1e00b921e125,d9719518cca911eb8324
+Open Disucssions,Everyone,,,20210624,170000,20210624,180000,roundtables,Roundtables,Africa/Americas/Europe,Roundtable,6e803b28-b207-11eb-9c9d-1e00b921e125,d971ee8acca911eb8aad
+Diversity Roundtable,TBA,,,20210624,170000,20210624,180000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Roundtable,597dbcb4-aeb4-11eb-8a7c-1e00b921e125,d9724826cca911eb9728
+Open Science and Publishing,TBD,Aki Nikolaidis & JB Poline,Organized by Aperture and the Open Science SIG,20210624,170000,20210624,180000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Roundtable,597dcedc-aeb4-11eb-8c7c-1e00b921e125,d972a1f4cca911ebbd6a
+Kidz Live Review - Portuguese,Maria Ribeiro ,"In�s Almeida, Jo�o Duarte, Ana Lu�sa Pinho, Pedro Pinheiro Chagas",Organized by the Diversity and Inclusivity Committee,20210624,170000,20210624,180000,symposiumhall3,Symposium Hall 3,Africa/Americas/Europe,Roundtable,16916558-aeb8-11eb-b724-1e00b921e125,d972fb36cca911ebaf9e
+Kidz Live Review - Spanish,Eduardo Garza-Villarreal ,"Mariana Flores, Viviana Siless, Kirk Geier",Organized by the Diversity and Inclusivity Committee,20210624,170000,20210624,180000,symposiumhall4,Symposium Hall 4,Africa/Americas/Europe,Roundtable,16916cd8-aeb8-11eb-ab0b-1e00b921e125,d9735536cca911ebba23
+Club Night,OHBM,,,20210624,180000,20210624,200000,braintrain,Club OHBM,Africa/Americas/Europe,Social,597ceef4-aeb4-11eb-80ac-1e00b921e125,d973b076cca911ebbdc4
+Announcements,Aina Puce,"Glass Brain Award, Fellows",,20210624,220000,20210624,221000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Announcements,597d2806-aeb4-11eb-86fe-1e00b921e125,d97412d2cca911ebbc37
+INS-fMRI: a method for mapping mesoscale connectomes in nonhuman primates,Anna Wang Roe,TBD,,20210624,221000,20210624,230000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Keynote,5976d034-aeb4-11eb-8972-1e00b921e125,d974a1e8cca911eb967b
+"Imaging the Brainstem: Approaches, Challenges and Opportunities","Ruud Lucas van den Brink, Jan Willem de Gee, David Clewett, Heidi Jacobs, Veronica M�ki-Marttunen","Veronica M�ki-Marttunen, Beth Lloyd",,20210624,231000,20210625,0,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Symposium,59783648-aeb4-11eb-bcd0-1e00b921e125,d97502becca911eb8f58
+Learning from high-dimensional neuroimaging data,"Jae-Joong Lee, Qunfang Long, Robyn Miller, Jing Sui","Vince Calhoun, Jing Sui",,20210624,231000,20210625,0,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Symposium,5978426e-aeb4-11eb-aaff-1e00b921e125,d9755f28cca911eb89ee
+Addressing the Social Limitations in Open Science,"Matteo Mancini, Johanna Bayer, Melvin Selim Atay, Katie Bottenhorn, Aki Nikolaidis, Sofie Valk","Aki Nikolaidis, Gabriel Gonzalez",,20210624,231000,20210625,0,symposiumhall3,Symposium Hall 3,Americas/Asia/Australia,Symposium,59784976-aeb4-11eb-bd2f-1e00b921e125,d975ba06cca911eb84ef
+PET Imaging of Brain Connectivity: Hype or Future?,"Aldana Lizarraga, Silvia Caminiti, Andreas Hahn, Joana Pereira","Arianna Sala, Igor Yakushev",,20210624,231000,20210625,0,symposiumhall4,Symposium Hall 4,Americas/Asia/Australia,Symposium,59785024-aeb4-11eb-af97-1e00b921e125,d9761468cca911ebaaea
+"Social Neuroscience, Emotion and Motivation",Poster Presenters,,,20210625,0,20210625,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597b9d58-aeb4-11eb-893b-1e00b921e125,d9766ef6cca911eb87c0
+Neuroinformatics and Data Sharing,Poster Presenters,,,20210625,0,20210625,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597ba5b4-aeb4-11eb-ae2a-1e00b921e125,d976c8d8cca911ebb73b
+"Physiology, Metabolism and Neurotransmission",Poster Presenters,,,20210625,0,20210625,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597bade6-aeb4-11eb-9622-1e00b921e125,d9773586cca911eb9836
+Neuroanatomy,Poster Presenters,,,20210625,0,20210625,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597bb610-aeb4-11eb-b1dd-1e00b921e125,d9779c7acca911eb8b6c
+"Social Neuroscience, Emotion and Motivation",TBD,,,20210625,0,20210625,3000,posterhighlights1,Poster Highlights Room 1,Americas/Asia/Australia,Poster Highlights,5979a1d8-aeb4-11eb-8779-1e00b921e125,d977f92ecca911ebb9fb
+Neuroinformatics and Data Sharing,TBD,,,20210625,0,20210625,3000,posterhighlights2,Poster Highlights Room 2,Americas/Asia/Australia,Poster Highlights,5979a8e8-aeb4-11eb-b838-1e00b921e125,d978540acca911eb95e0
+"Physiology, Metabolism and Neurotransmission",TBD,,,20210625,0,20210625,3000,posterhighlights3,Poster Highlights Room 3,Americas/Asia/Australia,Poster Highlights,5979b00c-aeb4-11eb-a8eb-1e00b921e125,d978af54cca911eb809a
+Neuroanatomy,TBD,,,20210625,0,20210625,3000,posterhighlights4,Poster Highlights Room 4,Americas/Asia/Australia,Poster Highlights,5979b734-aeb4-11eb-bef2-1e00b921e125,d9790b1ecca911eb9bf9
+Exhibitors Hour,Exhibitors,,,20210625,10000,20210625,20000,exhibithall,Exhibit Hall,Americas/Asia/Australia,Exhibitors Hour,597e3946-aeb4-11eb-a8ad-1e00b921e125,d979679ecca911eb8124
+Open Disucssions,Everyone,,,20210625,10000,20210625,20000,roundtables,Roundtables,Americas/Asia/Australia,Roundtable,6e804d5e-b207-11eb-a8b4-1e00b921e125,d979c418cca911ebbc62
+Glass Brain Interview,Aina Puce,,,20210625,10000,20210625,20000,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Roundtable,597d9b88-aeb4-11eb-819f-1e00b921e125,d97a209ecca911eb854a
+Research Funding Roundtable,"Ken Whang, John Ngai, Tetsuya Matsuda",Hiromasa Takemura & Dora Hermes,,20210625,10000,20210625,20000,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Roundtable,bec47ed4-b62b-11eb-927d-1e00b921e125,d97a7d0ccca911eb910a
+Club Night,OHBM,,,20210625,20000,20210625,40000,braintrain,Club OHBM,Americas/Asia/Australia,Social,597cf70a-aeb4-11eb-8ea8-1e00b921e125,d97ad9b4cca911ebbfab
+Announcements,Aina Puce,New OHBM Leadership,,20210625,140000,20210625,141000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Announcements,597d6276-aeb4-11eb-bd19-1e00b921e125,d97b35e4cca911eb87f7
+Characterizing Brain Microstructure Using Magnetic Resonance Imaging: Towards In-Vivo Histology,Nikolaus Weiskopf,Christophe Phillips,,20210625,141000,20210625,150000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Keynote,5976a31e-aeb4-11eb-aca8-1e00b921e125,d97b9214cca911eba013
+From bench to bed-side: Quantifying brain microstructure using multi-parameter MRI,"Kathryn Keenan, Christophe Phillips, Susie Huang, Christia Lambert","Bogdan Draganski, Nikola Stikov",,20210625,151000,20210625,160000,symposiumhall1,Symposium Hall 1,Africa/Americas/Europe,Symposium,597870ae-aeb4-11eb-80d4-1e00b921e125,d97bee30cca911eb9847
+Identifying and reducing model bias in network neuroscience,"Manjari Narayan, Andrew Reid, Alexandros Goulas, Mikail Rubinov","Mikail Rubinov, Lucina Uddin",,20210625,151000,20210625,160000,symposiumhall2,Symposium Hall 2,Africa/Americas/Europe,Symposium,597856d2-aeb4-11eb-847a-1e00b921e125,d97c4a10cca911ebac9f
+Simultaneous MRI-PET imaging: recent developments and future directions,"Sharna Jamadar, Andreas Hahn, Christin Sander, N. Jon Shah","Sharna Jamadar, Gary Egan",,20210625,151000,20210625,160000,symposiumhall3,Symposium Hall 3,Africa/Americas/Europe,Symposium,59785d6c-aeb4-11eb-9dfd-1e00b921e125,d97ca5d2cca911eb9253
+Stress sensitivity as a predictor of long-term vulnerability versus stress resilience,"Florin Dolcos, Indira Tendolkar, Shaozheng Quin, Fleur Duyser",Indira Tendolkar,,20210625,151000,20210625,160000,symposiumhall4,Symposium Hall 4,Africa/Americas/Europe,Symposium,59786410-aeb4-11eb-aa13-1e00b921e125,d97d01e4cca911ebab27
+How can scientists respond to the climate emergency? A guide from the SEA SIG,"Charlotte Rae, Anne Urai, Adam Aron, Clare Kelly",Charlotte Rae,,20210625,151000,20210625,160000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Symposium,59786a82-aeb4-11eb-900a-1e00b921e125,d97d5deccca911ebb022
+"Perception, Attention and Motor Behavior",Poster Presenters,,,20210625,160000,20210625,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597b14b4-aeb4-11eb-9f28-1e00b921e125,d97dba3acca911eba41d
+Modeling and Analysis - Connectivity,Poster Presenters,,,20210625,160000,20210625,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597b1c46-aeb4-11eb-aa44-1e00b921e125,d97e1662cca911ebb245
+"Physiology, Metabolism and Neurotransmission",Poster Presenters,,,20210625,160000,20210625,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597b23c6-aeb4-11eb-9665-1e00b921e125,d97e72b8cca911ebb17a
+Novel Imaging Acquisition Methods,Poster Presenters,,,20210625,160000,20210625,170000,posterhall,Poster Hall,Africa/Americas/Europe,Posters,597b2b5a-aeb4-11eb-8bda-1e00b921e125,d97ece5ccca911eb9512
+"Perception, Attention and Motor Behavior",TBD,,,20210625,160000,20210625,163000,posterhighlights1,Poster Highlights Room 1,Africa/Americas/Europe,Poster Highlights,59793480-aeb4-11eb-9d0a-1e00b921e125,d97f2a00cca911ebb125
+Modeling and Analysis - Connectivity,TBD,,,20210625,160000,20210625,163000,posterhighlights2,Poster Highlights Room 2,Africa/Americas/Europe,Poster Highlights,59793b2e-aeb4-11eb-8346-1e00b921e125,d97f863acca911ebbe8c
+"Physiology, Metabolism and Neurotransmission",TBD,,,20210625,160000,20210625,163000,posterhighlights3,Poster Highlights Room 3,Africa/Americas/Europe,Poster Highlights,597941be-aeb4-11eb-abd1-1e00b921e125,d97fe24ccca911ebaf34
+Novel Imaging Acquisition Methods,TBD,,,20210625,160000,20210625,163000,posterhighlights4,Poster Highlights Room 4,Africa/Americas/Europe,Poster Highlights,59794876-aeb4-11eb-9e69-1e00b921e125,d980400ccca911eb8481
+Closing Session,TBA,,,20210625,170000,20210625,180000,mainauditorium,Main Auditorium,Africa/Americas/Europe,Announcements,597d0f92-aeb4-11eb-8e44-1e00b921e125,d9809bf6cca911eb8bdf
+Announcements,Aina Puce,,Announcement of new OHBM leadership,20210625,220000,20210625,221000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Announcements,597d6a9e-aeb4-11eb-aa94-1e00b921e125,d980f808cca911ebb2cb
+Neurodevelopment of the Association Cortices: Normative Patterns and Implications for Psychopathology,Ted Satterthwaite,Emily Finn,,20210625,221000,20210625,230000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Keynote,5976f8b4-aeb4-11eb-962f-1e00b921e125,d98154f6cca911eb80a8
+"Communication in brain networks: models, mechanisms, and applications",TBA,TBA,,20210625,231000,20210626,0,symposiumhall1,Symposium Hall 1,Americas/Asia/Australia,Symposium,5978b034-aeb4-11eb-8e9b-1e00b921e125,d981b146cca911ebba68
+Innovations in Multimodal Data Fusion and Data-Driven Discovery in Population Neuroimaging,TBA,TBA,,20210625,231000,20210626,0,symposiumhall2,Symposium Hall 2,Americas/Asia/Australia,Symposium,5978b6c2-aeb4-11eb-971d-1e00b921e125,d9820dcccca911eb8475
+Emerging research in infant neuroimaging: a Fit'ng overview,TBA,TBA,,20210625,231000,20210626,0,symposiumhall3,Symposium Hall 3,Americas/Asia/Australia,Symposium,5978bd48-aeb4-11eb-a168-1e00b921e125,d9826a4ccca911eb9887
+Spatio-temporal brain dynamics across consciousness levels in clinical and healthy populations,TBA,TBA,,20210625,231000,20210626,0,symposiumhall4,Symposium Hall 4,Americas/Asia/Australia,Symposium,5978c3cc-aeb4-11eb-8636-1e00b921e125,d982c668cca911eb8d7e
+Higher Cognitive Functions,Poster Presenters,,,20210626,0,20210626,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597bbe58-aeb4-11eb-9d13-1e00b921e125,d98322aecca911eb90ab
+Modeling and Analysis - Activation,Poster Presenters,,,20210626,0,20210626,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597bc66e-aeb4-11eb-81aa-1e00b921e125,d9837efacca911eba6aa
+Disorders of the Nervous System - Psychiatric,Poster Presenters,,,20210626,0,20210626,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597bcf92-aeb4-11eb-81bc-1e00b921e125,d983dbc2cca911eb9c23
+Brain Stimulation,Poster Presenters,,,20210626,0,20210626,10000,posterhall,Poster Hall,Americas/Asia/Australia,Posters,597bdc62-aeb4-11eb-afb4-1e00b921e125,d9843862cca911eb941e
+Higher Cognitive Functions,TBD,,,20210626,0,20210626,3000,posterhighlights1,Poster Highlights Room 1,Americas/Asia/Australia,Poster Highlights,5979be28-aeb4-11eb-b8ed-1e00b921e125,d98494e2cca911eb9dae
+Modeling and Analysis - Activation,TBD,,,20210626,0,20210626,3000,posterhighlights2,Poster Highlights Room 2,Americas/Asia/Australia,Poster Highlights,5979c56c-aeb4-11eb-98a0-1e00b921e125,d984f188cca911eb8c4d
+Disorders of the Nervous System - Psychiatric,TBD,,,20210626,0,20210626,3000,posterhighlights3,Poster Highlights Room 3,Americas/Asia/Australia,Poster Highlights,5979cc7e-aeb4-11eb-941e-1e00b921e125,d9854d86cca911ebbba8
+Brain Stimulation,TBD,,,20210626,0,20210626,3000,posterhighlights4,Poster Highlights Room 4,Americas/Asia/Australia,Poster Highlights,5979d386-aeb4-11eb-830b-1e00b921e125,d985a97acca911eb8f0d
+Closing Session,TBA,,,20210626,10000,20210626,20000,mainauditorium,Main Auditorium,Americas/Asia/Australia,Announcements,597d178a-aeb4-11eb-8255-1e00b921e125,d98605b4cca911eb8e3a
