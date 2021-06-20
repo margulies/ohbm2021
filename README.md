@@ -30,7 +30,7 @@ The columns in the main schedule file are structured as described in the section
 
 ## Updating ICS for synced calendars
 
-The [`OHBM2021_Schedule_All.ics`](./schedule/calendar/conference/OHBM2021_Schedule_All.ics) calendar file can be updated by modifying in a calendar software, exported and uploaded to Firebase storage in the directory: `assets/calendars/` [link](gs://sparkle-ohbm.appspot.com/assets/calendars), replacing the current version. This will automatically update.
+The [`OHBM2021_Schedule_All.ics`](./schedule/calendar/conference/OHBM2021_Schedule_All.ics) calendar file can be updated by modifying in a calendar software, exported and uploaded to Firebase storage in the directory: `assets/calendars/` [link](gs://sparkle-ohbm.appspot.com/assets/calendars), replacing the current version. This will automatically update all synced calendars.
 
 ### Posters
 
