@@ -1,12 +1,12 @@
 #!/usr/bin/env node -r esm -r ts-node/register
+import admin from "firebase-admin";
+import { initFirebaseAdminApp, makeScriptUsage } from "./lib/helpers";
+import { resolve } from "path";
 
 var firebase = require("firebase/app");
 require("firebase/auth");
 require("firebase/firestore");
 
-import admin from "firebase-admin";
-import { initFirebaseAdminApp, makeScriptUsage } from "./lib/helpers";
-import { resolve } from "path";
 const fs = require("fs");
 const csv = require("csv-parser");
 
@@ -32,13 +32,14 @@ initFirebaseAdminApp(projectId, {
 interface videos {
   location: string;
   title: string;
+  category: string;
   authorName: string;
   thumbnailSrc: string;
   videoSrc: string;
-  category: string;
   subCategory?: string;
-  videoId?: string;
+  videoId: string;
 }
+
 
 fs.createReadStream(filePath)
   .pipe(csv())
